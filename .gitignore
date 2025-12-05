@@ -1,0 +1,6 @@
+/my_env
+.env 
+data/db.sqlite
+data/results/*
+cache/*
+__pycache__/
