@@ -1,4 +1,3 @@
-# questions_manager.py
 import os
 from dotenv import load_dotenv
 import json
@@ -27,9 +26,9 @@ def save_question_bank(bank: List[Dict]) -> None:
         json.dump(bank, f, ensure_ascii=False, indent=2)
 
 
-def load_cached_quiz(topic: str, difficulty: str, n_questions: int) -> List[Dict]:
+def load_cached_quiz(topic: str,  n_questions: int) -> List[Dict]:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    filename = f"{topic.lower().replace(' ', '_')}_{difficulty.lower()}_{n_questions}.json"
+    filename = f"{topic.lower().replace(' ', '_')}_{n_questions}.json"
     path = CACHE_DIR / filename
     if not path.exists():
         return []
@@ -37,9 +36,9 @@ def load_cached_quiz(topic: str, difficulty: str, n_questions: int) -> List[Dict
         return json.load(f)
 
 
-def save_cached_quiz(topic: str, difficulty: str, n_questions: int, questions: List[Dict]) -> None:
+def save_cached_quiz(topic: str,  n_questions: int, questions: List[Dict]) -> None:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    filename = f"{topic.lower().replace(' ', '_')}_{difficulty.lower()}_{n_questions}.json"
+    filename = f"{topic.lower().replace(' ', '_')}_{n_questions}.json"
     path = CACHE_DIR / filename
     with open(path, "w", encoding="utf-8") as f:
         json.dump(questions, f, ensure_ascii=False, indent=2)
@@ -49,7 +48,6 @@ def save_cached_quiz(topic: str, difficulty: str, n_questions: int, questions: L
 
 def generate_questions_with_groq(
     topic: str,
-    difficulty: str,
     n_questions: int
 ) -> List[Dict]:
     """
@@ -60,7 +58,6 @@ def generate_questions_with_groq(
     {
         "topic": str,
         "year": int | None,
-        "difficulty": "easy"|"medium"|"hard",
         "question": str,
         "options": {"a": str, "b": str, "c": str, "d": str},
         "correct_answer": "a"|"b"|"c"|"d"
@@ -72,7 +69,7 @@ def generate_questions_with_groq(
     
     prompt = PromptTemplate(
             template=(
-                "Generate {n_questions} {difficulty} multiple-choice question about {topic}.\n\n"
+                "Generate {n_questions} multiple-choice question about {topic}.\n\n"
                 "Return ONLY a JSON object with these exact fields:\n"
                 "- 'question': A clear, specific question\n"
                 "- 'options': An array of exactly 4 possible answers\n"
@@ -89,7 +86,7 @@ def generate_questions_with_groq(
         )
     
     # Render the prompt text
-    prompt_text = prompt.format(topic=topic, difficulty=difficulty, n_questions=n_questions)
+    prompt_text = prompt.format(topic=topic,  n_questions=n_questions)
     
     # Attempt to instantiate and call the Groq client; if not configured or any error occurs,
     # return an empty list so the caller can handle preloaded-only behavior or fallbacks.
@@ -121,7 +118,6 @@ def generate_questions_with_groq(
 
 def select_questions_for_quiz(
     topic: str,
-    difficulty: str,
     n_questions: int,
     preloaded_only: bool = False
 ) -> Tuple[List[Dict], int]:
@@ -139,7 +135,7 @@ def select_questions_for_quiz(
          e) Save final set (old+new) to cache and return.
     """
     # Step 3: Check cache first
-    cached = load_cached_quiz(topic, difficulty, n_questions)
+    cached = load_cached_quiz(topic, n_questions)
     if cached:
         return cached, len(cached)  # all from bank+cache (no new Groq call)
 
@@ -148,7 +144,6 @@ def select_questions_for_quiz(
     filtered = [
         q for q in bank
         if q.get("topic", "").lower() == topic.lower()
-        and q.get("difficulty", "").lower() == difficulty.lower()
     ]
     from_bank = filtered[:n_questions]
 
@@ -156,19 +151,19 @@ def select_questions_for_quiz(
         # Either enough in bank OR user requested no-API mode
         final_questions = from_bank[:n_questions]
         # Cache the exact set for next time
-        save_cached_quiz(topic, difficulty, n_questions, final_questions)
+        save_cached_quiz(topic,  n_questions, final_questions)
         return final_questions, len(final_questions)
 
     # Step B: Not enough -> need more
     missing = n_questions - len(from_bank)
 
     # Step B → C: Call Groq only for missing questions
-    new_questions = generate_questions_with_groq(topic, difficulty, missing)
+    new_questions = generate_questions_with_groq(topic,  missing)
 
     # Ensure new questions have topic/difficulty filled in correctly
     for q in new_questions:
         q.setdefault("topic", topic)
-        q.setdefault("difficulty", difficulty.lower())
+
 
     # Step C: Append to bank permanently
     bank.extend(new_questions)
@@ -178,6 +173,6 @@ def select_questions_for_quiz(
     final_questions = from_bank + new_questions
 
     # Cache this exact set
-    save_cached_quiz(topic, difficulty, n_questions, final_questions)
+    save_cached_quiz(topic,  n_questions, final_questions)
 
     return final_questions, len(from_bank)

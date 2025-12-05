@@ -6,8 +6,7 @@
     "option_b": "The procedure established by law",
     "option_c": "Fair application of law",
     "option_d": "Equality before law",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -16,8 +15,7 @@
     "option_b": "42nd Amendment",
     "option_c": "44th Amendment",
     "option_d": "86th Amendment",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -26,8 +24,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -36,8 +33,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -46,8 +42,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -56,8 +51,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-1",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -66,8 +60,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -76,8 +69,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -86,8 +78,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -96,8 +87,7 @@
     "option_b": "Two only",
     "option_c": "Three only",
     "option_d": "All Four",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -106,8 +96,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -116,8 +105,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -126,8 +114,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -136,8 +123,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is the correct\nexplanation for Statement-I",
     "option_c": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_d": "Statement-I is correct but Statement-II is incorrect",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -146,8 +132,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -156,8 +141,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -166,8 +150,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -176,8 +159,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -186,8 +168,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -196,8 +177,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -206,8 +186,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -216,8 +195,7 @@
     "option_b": "1 and 3",
     "option_c": "2 and 5",
     "option_d": "3, 4 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -226,8 +204,7 @@
     "option_b": "Department for Promotion of Industry and Internal Trade",
     "option_c": "Labour Bureau",
     "option_d": "National Technical Information System Manpower",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -236,8 +213,7 @@
     "option_b": "3 and 4 only",
     "option_c": "1 and 2 only",
     "option_d": "1, 2 and 4",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -246,8 +222,7 @@
     "option_b": "This would create a local self-governing body in that area.",
     "option_c": "This would convert that area into a Union Territory.",
     "option_d": "The State having such areas would be declared a Special Category State.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -256,8 +231,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -266,8 +240,7 @@
     "option_b": "1 and 3",
     "option_c": "2 and 3",
     "option_d": "1 and 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -276,8 +249,7 @@
     "option_b": "It is the agreement of the countries around the North Pole regarding the demarcation of\ntheir territories in the polar region.",
     "option_c": "It is a set of norms to be followed by the countries whose scientists undertake research\nstudies in the North Pole and South Pole.",
     "option_d": "It is a trade and security agreement of the member countries of the Arctic Council.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -286,8 +258,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -296,8 +267,7 @@
     "option_b": "2 and 4",
     "option_c": "3 and 4",
     "option_d": "1 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -306,8 +276,7 @@
     "option_b": "1, 2 and 4",
     "option_c": "3 and 4 only",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -316,8 +285,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -326,8 +294,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -336,8 +303,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -346,8 +312,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -356,8 +321,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -366,8 +330,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -376,8 +339,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -386,8 +348,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -396,8 +357,7 @@
     "option_b": "1, 2 and 3",
     "option_c": "3 and 4 only",
     "option_d": "2 and 4 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -406,8 +366,7 @@
     "option_b": "the Directive Principles of State Policy",
     "option_c": "the Right to Freedom",
     "option_d": "the Concept of Welfare",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -416,8 +375,7 @@
     "option_b": "Legal right available to any person",
     "option_c": "Fundamental Right available to citizens only",
     "option_d": "Neither Fundamental Right nor legal right",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -426,8 +384,7 @@
     "option_b": "A Sovereign Democratic Republic",
     "option_c": "A Sovereign Secular Democratic Republic",
     "option_d": "A Sovereign Socialist Secular Democratic Republic",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -436,8 +393,7 @@
     "option_b": "a government whose Head enjoys nominal powers",
     "option_c": "a government whose Head enjoys real powers",
     "option_d": "a government limited by the terms of the Constitution",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -446,8 +402,7 @@
     "option_b": "musical instruments",
     "option_c": "pre-historic cave paintings",
     "option_d": "tribal languages",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -456,8 +411,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -466,8 +420,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -476,8 +429,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -486,8 +438,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -496,8 +447,7 @@
     "option_b": "3 only",
     "option_c": "1 and 2",
     "option_d": "2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -506,8 +456,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -516,8 +465,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither I nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -526,8 +474,7 @@
     "option_b": "Ministry of Panchayati Raj",
     "option_c": "Ministry of Rural Development",
     "option_d": "Ministry of Tribal Affairs",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -536,8 +483,7 @@
     "option_b": "Article 28",
     "option_c": "Article 32",
     "option_d": "Article 44",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -546,8 +492,7 @@
     "option_b": "The Union Legislature has elected representatives from constituent units.",
     "option_c": "The Union Cabinet can have elected representatives from regional parties.",
     "option_d": "The Fundamental Rights are enforceable by Courts of Law.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -556,8 +501,7 @@
     "option_b": "A politically organized people of a definite territory and possessing an authority to\ngovern them, maintain law and order, protect their natural rights and safeguard their\nmeans of sustenance",
     "option_c": "A number of persons who have been living in a definite territory for a very long time\nwith their own culture, tradition and government",
     "option_d": "A society permanently living in a definite territory with a central authority, an executive\nresponsible to the central authority and an independent judiciary",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -566,8 +510,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -576,8 +519,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -586,8 +528,7 @@
     "option_b": "Centralization of powers",
     "option_c": "Elected government",
     "option_d": "Separation of powers",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -596,8 +537,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -606,8 +546,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -616,8 +555,7 @@
     "option_b": "Article 19",
     "option_c": "Article 21",
     "option_d": "Article 29",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -626,8 +564,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "2 and 3\nCorrect answer: The above question was dropped by the Union Public Service\nCommission in the final answer key.\n2020\nQ1. Consider the following statements:\n1. 36% of India’s districts are classified as ‘overexploited’ or ‘critical’ by the Central\nGround Water Authority (CGW",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -636,8 +573,7 @@
     "option_b": "Australia, Canada, Malaysia and New Zealand",
     "option_c": "Brazil, Iran, Saudi Arabia and Vietnam",
     "option_d": "Indonesia, Japan, Singapore and South Korea",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -646,8 +582,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -656,8 +591,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 and 4 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -666,8 +600,7 @@
     "option_b": "popular government",
     "option_c": "multi-party government",
     "option_d": "limited government",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -676,8 +609,7 @@
     "option_b": "Article 112 and Article 110(1) of the Constitution of India",
     "option_c": "Article 113 of the Constitution of India",
     "option_d": "Provisions of the Fiscal Responsibility and Budget Management Act, 2003",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -686,8 +618,7 @@
     "option_b": "a Directive Principle of State Policy",
     "option_c": "the Seventh Schedule",
     "option_d": "the conventional practice",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -696,8 +627,7 @@
     "option_b": "Right to Freedom",
     "option_c": "Right to Constitutional Remedies",
     "option_d": "Right to Equality",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -706,8 +636,7 @@
     "option_b": "3 and 4 only",
     "option_c": "1, 2 and 3 only",
     "option_d": "1, 2 and 4 only",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -716,8 +645,7 @@
     "option_b": "amending the Constitution",
     "option_c": "the removal of the government",
     "option_d": "making cut motions",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -726,8 +654,7 @@
     "option_b": "2 and 4 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -736,8 +663,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -746,8 +672,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -756,8 +681,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -766,8 +690,7 @@
     "option_b": "An agency for strengthening the structure of federalism",
     "option_c": "An agency for facilitating political stability and economic growth",
     "option_d": "An agency or the implementation of public policy",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -776,8 +699,7 @@
     "option_b": "class struggle",
     "option_c": "abolition of private property",
     "option_d": "economic determinism",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -786,8 +708,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -796,8 +717,7 @@
     "option_b": "Fundamental Rights",
     "option_c": "Preamble",
     "option_d": "Seventh Schedule",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -806,8 +726,7 @@
     "option_b": "the Government is responsible to the Parliament and can be removed by it",
     "option_c": "the Government is elected by the people and can be removed by them",
     "option_d": "the Government is chosen by the Parliament but cannot be removed by it before\ncompletion of a fixed term",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -816,8 +735,7 @@
     "option_b": "Ministry of Labour and Employment",
     "option_c": "NITI Aayog",
     "option_d": "Ministry of Skill Development and Entrepreneurship",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -826,8 +744,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -836,8 +753,7 @@
     "option_b": "3 only",
     "option_c": "3 and 4 only",
     "option_d": "1, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -846,8 +762,7 @@
     "option_b": "Lal Bahadur Shastri",
     "option_c": "Indira Gandhi",
     "option_d": "Morarji Desai",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -856,8 +771,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -866,8 +780,7 @@
     "option_b": "Fifth Schedule",
     "option_c": "Ninth Schedule",
     "option_d": "Twelfth Schedule",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -876,8 +789,7 @@
     "option_b": "2, 3 and 4",
     "option_c": "1, 2 and 4",
     "option_d": "1, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -886,8 +798,7 @@
     "option_b": "The Supreme Court of India is not constrained in the exercise of its powers by the laws\nmade by Parliament.",
     "option_c": "In the event of grave financial crisis in the country, the President of India can declare\nFinancial Emergency without the counsel from the Cabinet.",
     "option_d": "State Legislatures cannot make laws on certain matters without the concurrence of\nUnion Legislature.",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -896,8 +807,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -906,8 +816,7 @@
     "option_b": "is the inclusion of a specific chapter aimed at returning assets to\ntheir rightful owners from whom they had been taken illicitly.\n4. The United Nations Office on Drugs and Crime (UNOD",
     "option_c": "is mandated by its\nmember States to assist in the implementation of both UNCAC and UNTOC.\nWhich of the statements given above are correct?",
     "option_d": "1 and 3 only",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -916,8 +825,7 @@
     "option_b": "Article 21",
     "option_c": "Article 25",
     "option_d": "Article 29",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -926,8 +834,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -936,8 +843,7 @@
     "option_b": "Rajamannar Committee (1969)",
     "option_c": "Sarkaria Commission (1983)",
     "option_d": "National Commission to Review the Working of the Constitution (2000)",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -946,8 +852,7 @@
     "option_b": "1, 3 and 4",
     "option_c": "3, 4 and 5",
     "option_d": "2 and 5",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -956,8 +861,7 @@
     "option_b": "2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -966,8 +870,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -976,8 +879,7 @@
     "option_b": "Absence of restraint",
     "option_c": "Opportunity to do whatever one likes",
     "option_d": "Opportunity to develop oneself fully",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -986,8 +888,7 @@
     "option_b": "Canada",
     "option_c": "The European Union",
     "option_d": "The United States of America",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -996,8 +897,7 @@
     "option_b": "Russia",
     "option_c": "The United Kingdom",
     "option_d": "The United States of America",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1006,8 +906,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1016,8 +915,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1026,8 +924,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1036,8 +933,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1046,8 +942,7 @@
     "option_b": "International Court of Justice",
     "option_c": "The Office of UN Commissioner for Human Rights",
     "option_d": "World Justice Report",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1056,8 +951,7 @@
     "option_b": "Morocco and Tunisia",
     "option_c": "Venezuela and Colombia",
     "option_d": "Yemen and South Sudan",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1066,8 +960,7 @@
     "option_b": "Committee on Subordinate Legislation",
     "option_c": "Rules Committee",
     "option_d": "Business Advisory Committee",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1076,8 +969,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1086,8 +978,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1096,8 +987,7 @@
     "option_b": "Israel",
     "option_c": "Iraq",
     "option_d": "Yemen",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1106,8 +996,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1116,8 +1005,7 @@
     "option_b": "A Money Bill has provisions for the custody of the consolidated fund of India or the\ncontingency fund of India.",
     "option_c": "A Money Bill is concerned with the appropriation of money out of the contingency fund\nof India.",
     "option_d": "A Money Bill deals with the regulation of borrowing of money or giving any guarantee by\nthe government of India.",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1126,8 +1014,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1136,8 +1023,7 @@
     "option_b": "The civilian nuclear reactors come under IAEA safeguards.",
     "option_c": "The military nuclear installations come under the inspection of IAEA.",
     "option_d": "The country will have the privilege to buy uranium from the Nuclear Suppliers Group\nNSG).",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1146,8 +1032,7 @@
     "option_b": "3, 4, 5 and 6",
     "option_c": "1, 3, 4 and 5",
     "option_d": "2, 3, 4 and 6",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1156,8 +1041,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1166,8 +1050,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1176,8 +1059,7 @@
     "option_b": "If there are no laws, there is no liberty.",
     "option_c": "If there is liberty, laws have to be made by the people.",
     "option_d": "If laws are changed too often, liberty is in danger.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1186,8 +1068,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1196,8 +1077,7 @@
     "option_b": "2 and 4 only",
     "option_c": "1, 2 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1206,8 +1086,7 @@
     "option_b": "the powers of the Legislature of that State shall be exercisable by or under the authority\nof the Parliament.",
     "option_c": "Article 19 is suspended in that State.",
     "option_d": "the President can make laws relating to that State.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1216,8 +1095,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1226,8 +1104,7 @@
     "option_b": "3 - 2 - 1 - 4",
     "option_c": "4 - 2 - 1 - 3",
     "option_d": "3 - 1 - 2 - 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1236,8 +1113,7 @@
     "option_b": "Article 17 and the Directive Principles of State Policy in Part IV",
     "option_c": "Article 21 and the freedoms guaranteed in Part III",
     "option_d": "Article 24 and the provisions under the 44th Amendment to the Constitution",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1246,8 +1122,7 @@
     "option_b": "a resident of the constituency from which the election is to be contested.",
     "option_c": "any citizen of India whose name appears in the electoral roll of a constituency.",
     "option_d": "any citizen of India.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1256,8 +1131,7 @@
     "option_b": "Introductions of double government i.e., Central and Statement governments.",
     "option_c": "Having two sets of rulers; one in London and another in Delhi.",
     "option_d": "Division of the subjects delegated to the provinces into two categories.",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1266,8 +1140,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1276,8 +1149,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1286,8 +1158,7 @@
     "option_b": "Natural Right",
     "option_c": "Constitutional Right",
     "option_d": "Legal Right",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1296,8 +1167,7 @@
     "option_b": "3 only",
     "option_c": "1 and 2 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1306,8 +1176,7 @@
     "option_b": "Connecting institutions of higher education with local communities to address\ndevelopment challenges through appropriate technologies.",
     "option_c": "Strengthening India’s scientific research institutions in order to make India a scientific\nand technological power.",
     "option_d": "Developing human capital by allocating special funds for health care and education of\nrural and urban poor, and organizing skill development programmes and vocational\ntraining for them.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1316,8 +1185,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "3 only",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1326,8 +1194,7 @@
     "option_b": "the power of the Judiciary to question the wisdom of the laws enacted by the\nLegislatures.",
     "option_c": "the power of the Judiciary to review all the legislative enactments before they are\nassented to by the President.",
     "option_d": "the power of the Judiciary to review its own judgements given earlier in similar or\ndifferent cases.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1336,8 +1203,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1346,8 +1212,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1356,8 +1221,7 @@
     "option_b": "A mechanism for speeding up the activities of the Government whose responsibilities\nare increasing day by day.",
     "option_c": "A mechanism of parliamentary democracy for ensuring collective responsibility of the\nGovernment to the people.",
     "option_d": "A device for strengthening the hands of the head of the Government whose hold over\nthe people is in a state of decline.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1366,8 +1230,7 @@
     "option_b": "Powers have been clearly divided between the Centre and the States.",
     "option_c": "The federating units have been given unequal representation in the Rajya Sabha.",
     "option_d": "It is the result of an agreement among the federating units.",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1376,8 +1239,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1386,8 +1248,7 @@
     "option_b": "Economic liberty",
     "option_c": "Liberty of expression",
     "option_d": "Liberty of belief",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1396,8 +1257,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1406,8 +1266,7 @@
     "option_b": "the methods for strengthening executive leadership.",
     "option_c": "a superior individual with dynamism and vision.",
     "option_d": "a band of dedicated party workers.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1416,8 +1275,7 @@
     "option_b": "it provides continuity of policy and is more efficient.",
     "option_c": "the executive remains responsible to the legislature.",
     "option_d": "the head of the government cannot be changed without election.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1426,8 +1284,7 @@
     "option_b": "Rights are personal and hence independent of society and Duties.",
     "option_c": "Rights, not Duties, are important for the advancement of the personality of the citizen.",
     "option_d": "Duties, not Rights, are important for the stability of the State",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1436,8 +1293,7 @@
     "option_b": "The Fundamental Rights",
     "option_c": "The Directive Principles of State Policy",
     "option_d": "The Fundamental Duties",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1446,8 +1302,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1456,8 +1311,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1466,8 +1320,7 @@
     "option_b": "Enrolling the persons in Universities for distance learning programmes.",
     "option_c": "Reserving some skilled jobs to rural and urban poor in some public sector undertakings.",
     "option_d": "Certifying the skills acquired by trainees under the National Skill Development\nProgramme.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1476,8 +1329,7 @@
     "option_b": "Restraints",
     "option_c": "Competition",
     "option_d": "Ideology",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1486,8 +1338,7 @@
     "option_b": "Participation of workers in the management of industries",
     "option_c": "Right to work, education and public assistance",
     "option_d": "Securing living wage and human conditions of work to workers",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1496,8 +1347,7 @@
     "option_b": "Rights are privileges which are incorporated in the Constitution of a State.",
     "option_c": "Rights are claims of the citizens against the State.",
     "option_d": "Rights are privileges of a few citizens against the many.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1506,8 +1356,7 @@
     "option_b": "UN Human Rights Council",
     "option_c": "UN Women",
     "option_d": "World Health Organization",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1516,8 +1365,7 @@
     "option_b": "Democratic decentralization",
     "option_c": "Administrative delegation",
     "option_d": "Direct democracy",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1526,8 +1374,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1536,8 +1383,7 @@
     "option_b": "BRICS",
     "option_c": "EU",
     "option_d": "G20",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1546,8 +1392,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1556,8 +1401,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1, 2 and 3",
     "option_d": "1 and 3 only",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1566,8 +1410,7 @@
     "option_b": "Providing electricity to every household in the countries by 2018",
     "option_c": "Replacing the coal-based power plants with natural gas, nuclear, solar, wind and tidal\npower plants over a period of time",
     "option_d": "Providing for financial turnaround and revival of power distribution companies",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1576,8 +1419,7 @@
     "option_b": "release the sex workers from their practice and provide them with alternative sources of\nlivelihood",
     "option_c": "eradicate the practice of manual scavenging and rehabilitate the manual scavengers",
     "option_d": "release the bonded labourers from their bondage and rehabilitate them",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1586,8 +1428,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "3 only",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1596,8 +1437,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1606,8 +1446,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1616,8 +1455,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1626,8 +1464,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1636,8 +1473,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1646,8 +1482,7 @@
     "option_b": "a non-governmental international organization",
     "option_c": "an inter-governmental agency sponsored by European Union",
     "option_d": "a specialized agency of the United Nations",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1656,8 +1491,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1666,8 +1500,7 @@
     "option_b": "providing financial and technical assistance to young start-up entrepreneurs",
     "option_c": "promoting the education and health of adolescent girls",
     "option_d": "providing affordable and quality education to the citizens for free",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1676,8 +1509,7 @@
     "option_b": "Saudi Arabia",
     "option_c": "Oman",
     "option_d": "Kuwait",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1686,8 +1518,7 @@
     "option_b": "Brazil",
     "option_c": "European Union",
     "option_d": "China",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1696,8 +1527,7 @@
     "option_b": "Lok Sabha by a majority of not less than two-thirds of its total membership",
     "option_c": "Rajya Sabha by a simple majority of its total membership",
     "option_d": "Rajya Sabha by a majority of not less than two-thirds of its members present and voting",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1706,8 +1536,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1716,8 +1545,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1726,8 +1554,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1736,8 +1563,7 @@
     "option_b": "The jurisdiction of the central and provincial governments",
     "option_c": "The powers of the Secretary of State for India and Viceroy",
     "option_d": "None of the above",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1746,8 +1572,7 @@
     "option_b": "three-fourths majority of members present and voting",
     "option_c": "two-thirds majority of the Houses",
     "option_d": "absolute majority of the Houses",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1756,8 +1581,7 @@
     "option_b": "Finance Commission",
     "option_c": "Law Commission",
     "option_d": "Planning Commission",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1766,8 +1590,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1776,8 +1599,7 @@
     "option_b": "a global Human Rights Movement",
     "option_c": "a non-governmental voluntary organization to help very poor people",
     "option_d": "an inter-governmental agency to cater to medical emergencies in war-ravaged regions.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1786,8 +1608,7 @@
     "option_b": "3 only",
     "option_c": "1, 2, and 3",
     "option_d": "India is a member of none of them",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1796,8 +1617,7 @@
     "option_b": "determine the boundaries between States",
     "option_c": "determine the powers, authority and responsibilities of Panchayats",
     "option_d": "protect the interests of all the border States",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1806,8 +1626,7 @@
     "option_b": "2 and 3 only",
     "option_c": "2 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1816,8 +1635,7 @@
     "option_b": "The Prime Minister of India",
     "option_c": "The Lok Sabha Secretariat",
     "option_d": "The Supreme Court of India",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1826,8 +1644,7 @@
     "option_b": "2, 3 and 4",
     "option_c": "1 and 3",
     "option_d": "1, 2 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1836,8 +1653,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1846,8 +1662,7 @@
     "option_b": "Directive Principles of State Policy",
     "option_c": "Fundamental Rights",
     "option_d": "Fundamental Duties",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1856,8 +1671,7 @@
     "option_b": "2 and 4 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1866,8 +1680,7 @@
     "option_b": "1, 3, 4 and 5 only",
     "option_c": "2, 4 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1876,8 +1689,7 @@
     "option_b": "Directive Principles of State Policy",
     "option_c": "Fundamental Rights",
     "option_d": "Seventh Schedule",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1886,8 +1698,7 @@
     "option_b": "Parliament can amend the Constitution",
     "option_c": "Rajya Sabha cannot be dissolved",
     "option_d": "Council of Ministers is responsible to the Lok Sabha",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1896,8 +1707,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1906,8 +1716,7 @@
     "option_b": "The Committee on Estimates",
     "option_c": "The Committee on Public Undertakings",
     "option_d": "The Committee on Petitions",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1916,8 +1725,7 @@
     "option_b": "Lebanon",
     "option_c": "Syria",
     "option_d": "Tunisia",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1926,8 +1734,7 @@
     "option_b": "2, 3 and 4",
     "option_c": "1, 4 and 5",
     "option_d": "1, 3 and 5",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1936,8 +1743,7 @@
     "option_b": "Fifth Schedule",
     "option_c": "Eighth Schedule",
     "option_d": "Tenth Schedule",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Polity",
@@ -1946,8 +1752,7 @@
     "option_b": "Directive Principles of State Policy",
     "option_c": "Fundamental Duties",
     "option_d": "Ninth Schedule",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1956,8 +1761,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "2 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -1966,8 +1770,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 2 only",
     "option_d": "1, 2 and 3\nCorrect answer:\nQ9. Consider the following statements:\nA Constitutional Government is one which\n1. Places effective restrictions on individual liberty in the interest of State Authority.\n2. Places effective restrictions on the Authority of the State in the interest of individual\nliberty.\nWhich of the statements given above is/are correct?",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1976,8 +1779,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Polity",
@@ -1986,8 +1788,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Polity",
@@ -1996,8 +1797,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -2006,8 +1806,7 @@
     "option_b": "appellate jurisdiction",
     "option_c": "original jurisdiction",
     "option_d": "writ jurisdiction",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Polity",
@@ -2016,8 +1815,7 @@
     "option_b": "the Parliament",
     "option_c": "the Chief Justice of India",
     "option_d": "the Law Commission",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Geography",
@@ -2026,8 +1824,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-1",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct\"\nCorrect Answer: Option c\nQ2. Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of the Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct?",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Geography",
@@ -2036,8 +1833,7 @@
     "option_b": "1, 2, 3 and 4 only",
     "option_c": "3, 4 and 5 only",
     "option_d": "1, 2, 3, 4 and 5\nCorrect Answer: c\nQ17. With reference to India, consider the following statements?\n1. Monazite is a source of rare earths.\n2. Monazite contains thorium.\n3. Monazite occurs naturally in the entire Indian coastal sands in India.\n4. In India, Government bodies only can process or export monazite.\nWhich of the statements given above are correct?",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Geography",
@@ -2046,8 +1842,7 @@
     "option_b": "mangrove areas",
     "option_c": "Ramsar sites",
     "option_d": "saline lakes",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Geography",
@@ -2056,8 +1851,7 @@
     "option_b": "2 and 4",
     "option_c": "3 and 4",
     "option_d": "1 and 3\nCorrect answer: option b\nQ9. Consider the following statements:\n1. The Global Ocean Commission grants licences for seabed exploration and\nmining in international waters.\n2. India has received licences for seabed mineral exploration in international\nwaters.\n3. ‘Rare earth minerals’ are present on the seafloor in international waters.\nWhich of the statements given above are correct?",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Geography",
@@ -2066,8 +1860,7 @@
     "option_b": "dry deciduous forest",
     "option_c": "mangrove forest",
     "option_d": "tropical rainforest\nCorrect answer: option d\n2020\nQ1. What are the advantages of fertigation in agriculture?\n1. Controlling the alkalinity of irrigation water is possible.\n2. E�cient application of Rock Phosphate and all other phosphatic fertilizers is\npossible.\n3. Increased availability of nutrients to plants is possible.\n4. Reduction in the leaching of chemical nutrients is possible.\nSelect the correct answer using the code given below:",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Geography",
@@ -2076,8 +1869,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3\nCorrect answer: option d\nQ8. With reference to solar water pumps, consider the following statements:\n1. Solar power can be used for running surface pumps and not for\nsubmersible pumps.\n2. Solar power can be used for running centrifugal pumps and not the\nones with piston.\nWhich of the statements given above is/are correct?",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Geography",
@@ -2086,8 +1878,7 @@
     "option_b": "India",
     "option_c": "Myanmar",
     "option_d": "Vietnam\nCorrect answer: option b\nQ6. Consider the following pairs\nGlacier River\n1. Bandarpunch Yamuna\n2 . Bara Shigri Chenab\n3. Milam Mandakini\n4. Siachen Nubra\n5. Zemu Manas\nWhich of the pairs correctly matched?",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Geography",
@@ -2096,8 +1887,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3\nCorrect answer: option a\nQ10. Consider the following statements:\n1. Petroleum and Natural Gas Regulatory Board (PNGR",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Geography",
@@ -2106,8 +1896,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1 and 3 only\nCorrect answer: option b\nQ3. With reference to ‘Indian Ocean Dipole (IO",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Geography",
@@ -2116,8 +1905,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3\nCorrect answer: option d\nQ3. Which of the following is/are the advantages/advantages of practicing drip\nirrigation?\n1. Reduction in weed\n2. Reduction in soil salinity\n3. Reduction in soil erosion\nSelect the correct answer using the code given below.",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Geography",
@@ -2126,8 +1914,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Geography",
@@ -2136,8 +1923,7 @@
     "option_b": "Convergence of the two equatorial currents",
     "option_c": "Di�erence in salinity of water",
     "option_d": "Occurrence of the belt of calm near the equator\nCorrect answer: option b\nQ5. Consider the following pairs:\nS.No Place of Pilgrimage Location\n1. Srisailam Nallamala hills\n2. Omkareshwar Satmala hills\n3. Pushkar Mahadev hills\nWhich of the above pairs is/are correctly matched ?",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Geography",
@@ -2146,8 +1932,7 @@
     "option_b": "Involving the farmers for training in quality seed production and thereby to make\navailable quality seeds to others at appropriate time and a�ordable cost",
     "option_c": "Earmarking some villages exclusively for the production of certified seeds",
     "option_d": "Identifying the entrepreneurs in villages and providing them technology and\nfinance to set up seed companies",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Geography",
@@ -2156,8 +1941,7 @@
     "option_b": "1 only",
     "option_c": "2 only",
     "option_d": "Both 1 and 2",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Geography",
@@ -2166,8 +1950,7 @@
     "option_b": "1, 2 and 4 only",
     "option_c": "2, 3 and 4 only",
     "option_d": "1, 2, 3 and 4\nCorrect answer: option b\nQ2. Which one of the following pairs of islands is separated from each other by the\n'Ten Degree Channel'?",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2176,8 +1959,7 @@
     "option_b": "Mahmud Begarha",
     "option_c": "Bahadur Shah",
     "option_d": "Muhammad Shah",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2186,8 +1968,7 @@
     "option_b": "establishment of English Press in Colonial India",
     "option_c": "establishment of Churches in Princely States",
     "option_d": "construction of railways in Colonial India",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2196,8 +1977,7 @@
     "option_b": "The Pitt's India Act",
     "option_c": "The Charter Act of 1793",
     "option_d": "The Charter Act of 1833",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2206,8 +1986,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I.",
     "option_c": "Statement-I is correct but Statement-II is incorrect.",
     "option_d": "Statement-I is incorrect but Statement-II is correct.",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2216,8 +1995,7 @@
     "option_b": "2, 3 and 4",
     "option_c": "1, 3 and 4",
     "option_d": "1, 2 and 4\nC orrect answer: c\nQ2. Consider the following freedom fighters:\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose\nWho of the above was/were actively associated with the Ghadar Party?",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2226,8 +2004,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2236,8 +2013,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2246,8 +2022,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2256,8 +2031,7 @@
     "option_b": "The Viceroy’s Executive Council was expanded to include more Indians.",
     "option_c": "The Congress ministries resigned in seven provinces.",
     "option_d": "Cripps proposed an Indian Union with full Dominion Status once the Second World\nWar was over.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2266,8 +2040,7 @@
     "option_b": "Jawaharlal Nehru",
     "option_c": "Mohandas Karamchand Gandhi",
     "option_d": "Sarojini Naidu",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2276,8 +2049,7 @@
     "option_b": "Debendranath Tagore",
     "option_c": "Ishwar Chandra Vidyasagar",
     "option_d": "Sarojini Naidu",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2286,8 +2058,7 @@
     "option_b": "members of the Interim Government in 1946",
     "option_c": "members of the Drafting Committee in the Constituent Assembly",
     "option_d": "o�cers of the Indian National Army",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2296,8 +2067,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2306,8 +2076,7 @@
     "option_b": "1 and 2",
     "option_c": "3 only",
     "option_d": "2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2316,8 +2085,7 @@
     "option_b": "Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.",
     "option_c": "Rabindranath Tagore translated the National Anthem from Bengali to English\nhere.",
     "option_d": "Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical\nSociety first here.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2326,8 +2094,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2336,8 +2103,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2346,8 +2112,7 @@
     "option_b": "its unprofitability in the world market because of new inventions",
     "option_c": "national leaders’ opposition to the cultivation if indigo",
     "option_d": "Government control over the planters",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2356,8 +2121,7 @@
     "option_b": "he wanted to revive interest in oriental learning in India",
     "option_c": "he wanted to provide William Carey and his associates with employment",
     "option_d": "he wanted to train British civilians for administrative purpose in India\nCorrect answers: d\nQ4. With reference to the history of India, “Ulgulan” or the Great Trumult is the\ndescription of which of the following events?",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2366,8 +2130,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2376,8 +2139,7 @@
     "option_b": "Machines were introduced in the Indian textile industry in large numbers.",
     "option_c": "Railways lines were laid in many parts of the country.",
     "option_d": "Heavy duties were imposed on the imports of British manufactures.",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2386,8 +2148,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2396,8 +2157,7 @@
     "option_b": "1, 2 and 4 only",
     "option_c": "3 only",
     "option_d": "2, 3 and 4 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2406,8 +2166,7 @@
     "option_b": "Jyotiba Phule",
     "option_c": "Mohandas Karamchand Gandhi",
     "option_d": "Bhimrao Ranji Ambedkar",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2416,8 +2175,7 @@
     "option_b": "The major aim of land reforms was providing agricultural land to all the landless.",
     "option_c": "It resulted in cultivation of cash crops as a predominant form of cultivation.",
     "option_d": "Land reforms permitted no exemptions to the ceiling limits.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2426,8 +2184,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2436,8 +2193,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2446,8 +2202,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2456,8 +2211,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2466,8 +2220,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2476,8 +2229,7 @@
     "option_b": "Tobacco, cotton and rubber",
     "option_c": "Cotton, co�ee and sugarcane",
     "option_d": "Rubber, co�ee and wheat",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2486,8 +2238,7 @@
     "option_b": "Bipin Chandra Pal",
     "option_c": "Lala Lajpat Rai",
     "option_d": "Motilal Nehru",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2496,8 +2247,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2506,8 +2256,7 @@
     "option_b": "Governor General",
     "option_c": "Provincial Legislature",
     "option_d": "Provincial Governors",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2516,8 +2265,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2526,8 +2274,7 @@
     "option_b": "Sugar, salt, zinc and lead",
     "option_c": "Copper, silver, gold, spices and tea",
     "option_d": "Cotton, silk, saltpetre and opium",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2536,8 +2283,7 @@
     "option_b": "Active involvement of Dalit and Tribal communities of India in the National\nMovement",
     "option_c": "Joining of peasant unrest to India's National Movement",
     "option_d": "Drastic decrease in the cultivation of plantation crops and commercial crop",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2546,8 +2292,7 @@
     "option_b": "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy",
     "option_c": "C.P. Ramaswamy Iyer, K. Kamaraj and Veeresalingam Pantulu",
     "option_d": "Ashok Mehta, T.S. Ramanujan and G.G. Mehta",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2556,8 +2301,7 @@
     "option_b": "Jean-Baptiste Tavernier",
     "option_c": "Jean de Thevenot",
     "option_d": "Abbe Barthelemy Carre",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2566,8 +2310,7 @@
     "option_b": "To keep India safe from Napoleonic danger",
     "option_c": "To secure a fixed income for the Company",
     "option_d": "To establish British paramountcy over the Indian States",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2576,8 +2319,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2586,8 +2328,7 @@
     "option_b": "Hindu Mahasabha",
     "option_c": "South Indian Liberal Federation",
     "option_d": "The Servants of India Society",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2596,8 +2337,7 @@
     "option_b": "Dinabandhu Mitra wrote Neeldarpan.",
     "option_c": "Bankim Chandra Chattopadhyay wrote Anandmath.",
     "option_d": "Satyendranath Tagore became the first Indian to succeed in the Indian Civil\nServices Examination",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2606,8 +2346,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2616,8 +2355,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2626,8 +2364,7 @@
     "option_b": "2-1-3",
     "option_c": "3-2-1",
     "option_d": "3-1-2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2636,8 +2373,7 @@
     "option_b": "Define the powers of the Secretary of State for India.",
     "option_c": "Impose censorship on the national press.",
     "option_d": "Improve the relationship between the Government of India and the Indian States.",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2646,8 +2382,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2656,8 +2391,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2666,8 +2400,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2676,8 +2409,7 @@
     "option_b": "Home Rule Movement",
     "option_c": "Non-Cooperation Movement",
     "option_d": "visit of the Simon Commission to India",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2686,8 +2418,7 @@
     "option_b": "a temple-entry movement in Gujarat",
     "option_c": "an anti-caste movement in Maharashtra",
     "option_d": "a peasant movement in Punjab",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2696,8 +2427,7 @@
     "option_b": "educational reforms",
     "option_c": "reforms in police administration",
     "option_d": "constitutional reforms",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2706,8 +2436,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2716,8 +2445,7 @@
     "option_b": "Extremists’ lack of faith in the capacity of the moderates to negotiate with the\nBritish Government",
     "option_c": "Foundation of Muslim League",
     "option_d": "Aurobindo Ghosh’s inability to be elected as the President of the Indian National\nCongress",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2726,8 +2454,7 @@
     "option_b": "India should be partitioned into two before granting independence",
     "option_c": "India should be made a republic with the condition that she will join the\nCommonwealth",
     "option_d": "India should be given Dominion status",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2736,8 +2463,7 @@
     "option_b": "Quit India Movement",
     "option_c": "Non-Cooperation Movement",
     "option_d": "Civil Disobedience Movement",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2746,8 +2472,7 @@
     "option_b": "2 and 3",
     "option_c": "1 and 3",
     "option_d": null,
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2756,8 +2481,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2766,8 +2490,7 @@
     "option_b": "C. Rajagopalachari",
     "option_c": "K. Kamaraj",
     "option_d": "Annie Besant",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2776,8 +2499,7 @@
     "option_b": "3 only",
     "option_c": "1, 2 and 3",
     "option_d": null,
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2786,8 +2508,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Modern History",
@@ -2796,8 +2517,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2806,8 +2526,7 @@
     "option_b": "given e�ect to the Independence Bill",
     "option_c": "delimit the boundaries between India and Pakistan",
     "option_d": "enquire into the riots in East Bengal",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Modern History",
@@ -2816,8 +2535,7 @@
     "option_b": "King George V abrogated Curzon's Act as the Royal Durbar in Delhi in 1911",
     "option_c": "Gandhiji launched his Civil Disobedience Movement.",
     "option_d": "The Partition of India in 1947 when East Bengal became East Pakistan.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2826,8 +2544,7 @@
     "option_b": "Attainment of Poorna Swaraj was adopted as the goal of the Congress.",
     "option_c": "Non-Cooperation Movement was launched.",
     "option_d": "Decision to participate in the Round Table Conference in London was taken.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Modern History",
@@ -2836,8 +2553,7 @@
     "option_b": "nationalist organization operating from Singapore.",
     "option_c": "militant organization with headquarters at Berlin",
     "option_d": "Communist movement for India's freedom with headquarters at Tashkent.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Modern History",
@@ -2846,8 +2562,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -2856,8 +2571,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2866,8 +2580,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-1 is correct Statement-II is incorrect",
     "option_d": "Statement-1 is incorrect but Statement-II is correct",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2876,8 +2589,7 @@
     "option_b": "The United Nations Environment Programme",
     "option_c": "The United Nations World Commission for Environment and Development",
     "option_d": "The World Wide Fund for Nature",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -2886,8 +2598,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -2896,8 +2607,7 @@
     "option_b": "Dragonflies",
     "option_c": "Honeybees",
     "option_d": "Wasps",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2906,8 +2616,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -2916,8 +2625,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2926,8 +2634,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2936,8 +2643,7 @@
     "option_b": "Orangutan",
     "option_c": "Otter",
     "option_d": "Sloth bear",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -2946,8 +2652,7 @@
     "option_b": "Marakkanam Salt Pans",
     "option_c": "Naupada Swamp",
     "option_d": "Rann of Kutch",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -2956,8 +2661,7 @@
     "option_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct\nexplanation for Statement-I",
     "option_c": "Statement-I is correct but Statement-II is incorrect",
     "option_d": "Statement-I is incorrect but Statement-II is correct",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -2966,8 +2670,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2976,8 +2679,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -2986,8 +2688,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -2996,8 +2697,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3006,8 +2706,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3016,8 +2715,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3026,8 +2724,7 @@
     "option_b": "Wing of \"\"International Panel of Climate Change",
     "option_c": "Committee under \"\"United Nations Framework Convention on Climate Change",
     "option_d": "Agency promoted and financed by United Nations Environment Programme and World\nBank",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3036,8 +2733,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "2, 3 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3046,8 +2742,7 @@
     "option_b": "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and\nmammals thrive.",
     "option_c": "Wetlands play vital role in maintaining sedimentation balance and soil stabilization.",
     "option_d": "Aquatic plants absorb heavy metals and excess nutrients",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3056,8 +2751,7 @@
     "option_b": "1 and 4 only",
     "option_c": "2, 3 and 4",
     "option_d": "1 and 2 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3066,8 +2760,7 @@
     "option_b": "3 only",
     "option_c": "1 and 2",
     "option_d": "2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3076,8 +2769,7 @@
     "option_b": "Indian Nightjar",
     "option_c": "Spoonbill",
     "option_d": "White Ibis",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3086,8 +2778,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "1, 3, 5 and 6 only",
     "option_d": "2, 4, 5 and 6 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3096,8 +2787,7 @@
     "option_b": "Development of building materials using plant residue",
     "option_c": "Identification of areas for exploration/extraction of shale gas",
     "option_d": "Providing salt licks for wild animals in forests/protected areas",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3106,8 +2796,7 @@
     "option_b": "Development of gardens using genetically modified flora",
     "option_c": "Creation of mini forests in urban areas",
     "option_d": "Harvesting wind energy on coastal areas and on sea surfaces",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3116,8 +2805,7 @@
     "option_b": "Only two pairs",
     "option_c": "Only three pairs",
     "option_d": "All four pairs",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3126,8 +2814,7 @@
     "option_b": "ecological management of Wetlands of International Importance under the Ramsar\nConvention",
     "option_c": "sustainable practices in the cultivation of agricultural crops in degraded lands",
     "option_d": "‘Environmental Impact Assessment’ in the exploitation of natural resources",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3136,8 +2823,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3146,8 +2832,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3156,8 +2841,7 @@
     "option_b": "Carton sequestered in forest biomass and agricultural soils",
     "option_c": "Carbon contained in petroleum and natural gas",
     "option_d": "Carbon present in atmosphere",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3166,8 +2850,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3",
     "option_d": "1, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3176,8 +2859,7 @@
     "option_b": "1, 3 and 5",
     "option_c": "3 and 4",
     "option_d": "2 and 5",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3186,8 +2868,7 @@
     "option_b": "Octopus",
     "option_c": "Oyster",
     "option_d": "Pelican",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3196,8 +2877,7 @@
     "option_b": "Nitrogen cycle",
     "option_c": "Phosphorus cycle",
     "option_d": "Sulphur cycle",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3206,8 +2886,7 @@
     "option_b": "2, 3, 4 and 5 only",
     "option_c": "1, 3 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3216,8 +2895,7 @@
     "option_b": "enabling commercial fanning entities around the world to enter carbon emission trading",
     "option_c": "enabling governments to assess the overall carbon footprint caused by their countries",
     "option_d": "assessing the overall carbon foot-print caused by the use of fossil fuels by the world in\na unit time",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3226,8 +2904,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3236,8 +2913,7 @@
     "option_b": "Both Statement 1 and Statement 2 are correct but Statement 2 is not the correct\nexplanation for Statement 1.",
     "option_c": "Statement 1 is correct but Statement 2 is not correct.",
     "option_d": "Statement 1 is not correct but Statement 2 is correct.",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3246,8 +2922,7 @@
     "option_b": "4 and 5",
     "option_c": "2, 3 and 4",
     "option_d": "1, 3 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3256,8 +2931,7 @@
     "option_b": "1, 2 and 4",
     "option_c": "4 only",
     "option_d": "2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3266,8 +2940,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3276,8 +2949,7 @@
     "option_b": "2 and 3 only",
     "option_c": "2 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3286,8 +2958,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3296,8 +2967,7 @@
     "option_b": "Ranthambore",
     "option_c": "Nagarjunasagar-Srisailam",
     "option_d": "Sundarbans",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3306,8 +2976,7 @@
     "option_b": "Such a plant cannot be cultivated under any circumstances.",
     "option_c": "It is a Genetically Modified crop plant.",
     "option_d": "Such a plant is invasive and harmful to the ecosystem.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3316,8 +2985,7 @@
     "option_b": "1, 3, 4 and 6 only",
     "option_c": "2, 3, 4 and 5 only",
     "option_d": "1, 2, 3, 4, 5 and 6\nCorrect answers: a\nQ6. Which of the following statements best describes the term ‘Social Cost of Carbon’?\nIt is a measure, in monetary value, of the",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3326,8 +2994,7 @@
     "option_b": "3 and 4 only",
     "option_c": "1, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3336,8 +3003,7 @@
     "option_b": "Primates",
     "option_c": "Reptiles",
     "option_d": "Amphibians",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3346,8 +3012,7 @@
     "option_b": "Kanha National Park",
     "option_c": "Manas National Park",
     "option_d": "Mudumalai Wildlife Sanctuary",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3356,8 +3021,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3366,8 +3030,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 and 4 only",
     "option_d": "1 and 4 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3376,8 +3039,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "4 and 5 only",
     "option_d": "1 and 5 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3386,8 +3048,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3396,8 +3057,7 @@
     "option_b": "Namdapha National Park",
     "option_c": "Neora Valley National Park",
     "option_d": "Valley of Flowers National Park",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3406,8 +3066,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3416,8 +3075,7 @@
     "option_b": "Reducing the frequency and intensity of tropical cyclones",
     "option_c": "Reducing the adverse effects of solar wind on the Earth",
     "option_d": "Reducing the global warming",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3426,8 +3084,7 @@
     "option_b": "Natural gas extraction technologies",
     "option_c": "Hydrogen fuel-based automobiles",
     "option_d": "Waste-to-energy technologies",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3436,8 +3093,7 @@
     "option_b": "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley\nNational Park",
     "option_c": "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi\nNational Park",
     "option_d": "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger\nReserve",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3446,8 +3102,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "2 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3456,8 +3111,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3466,8 +3120,7 @@
     "option_b": "They are considered to cause skin cancer in children.",
     "option_c": "They are small enough to be absorbed by crop plants in irrigated fields.",
     "option_d": "They are often found to be used as food adulterants.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3476,8 +3129,7 @@
     "option_b": "anti-malarial drug",
     "option_c": "biodiesel",
     "option_d": "pulp for paper industry",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3486,8 +3138,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3496,8 +3147,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3506,8 +3156,7 @@
     "option_b": "preservatives in processed foods",
     "option_c": "fruit-ripening agents",
     "option_d": "moisturising agents in cosmetics",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3516,8 +3165,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3526,8 +3174,7 @@
     "option_b": "2 and 3 only",
     "option_c": "2 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3536,8 +3183,7 @@
     "option_b": "2 and 3 only",
     "option_c": "4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3546,8 +3192,7 @@
     "option_b": "Clouds reflect back the Earth’s radiation.",
     "option_c": "The Earth’s surface would have low temperature on cloudy nights.",
     "option_d": "Clouds deflect the blowing wind to ground level.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3556,8 +3201,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3\nCo rrect answer: b\nQ18. Consider the following statements:\n1. According to the Indian Patents Act, a biological process to create a seed can be\npatented in India.\n2. In India, there is no Intellectual Property Appellate Board.\n3. Plant varieties are not eligible to be patented in India.\nWhich of the statements given above is/are correct?",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3566,8 +3210,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3576,8 +3219,7 @@
     "option_b": "The Rules are applicable to notified urban local bodies, notified towns and all industrial\ntownships only.",
     "option_c": "The Rules provide for exact and elaborate criteria for the identification of sites for\nlandfills and waste processing facilities.",
     "option_d": "It is mandatory on the part of waste generator that the waste generated in one district\ncannot be moved to another district.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3586,8 +3228,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3596,8 +3237,7 @@
     "option_b": "The Recycled Plastic (Manufacturing and Usage) Rules, 1999",
     "option_c": "The e-Waste (Management and Handling) Rules, 2011",
     "option_d": "The Food Safety and Standard Regulations, 2011",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3606,8 +3246,7 @@
     "option_b": "Manipur",
     "option_c": "Meghalaya",
     "option_d": "Nagaland",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3616,8 +3255,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3626,8 +3264,7 @@
     "option_b": "1 only",
     "option_c": "2 only",
     "option_d": "Both 1 and 2",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3636,8 +3273,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3646,8 +3282,7 @@
     "option_b": "2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3656,8 +3291,7 @@
     "option_b": "2 and 3",
     "option_c": "2 only",
     "option_d": "1 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3666,8 +3300,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3676,8 +3309,7 @@
     "option_b": "2, 3, 4 and 5",
     "option_c": "2, 4 and 5",
     "option_d": "1, 2, 3 and 5",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3686,8 +3318,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3696,8 +3327,7 @@
     "option_b": "Increased temperature of Earth due to increased concentration of carbon dioxide in the\natmosphere",
     "option_c": "Increased acidity of oceans as a result of increased concentration of carbon dioxide in\nthe atmosphere",
     "option_d": "Adaptation of all living beings on Earth to the climate change brought about by the\nincreased concentration of carbon dioxide in the atmosphere",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3706,8 +3336,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3716,8 +3345,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3726,8 +3354,7 @@
     "option_b": "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro",
     "option_c": "The United Nations Framework Convention on Climate change 2015, Paris",
     "option_d": "The World Sustainable Development Summit 2016, New Delhi",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3736,8 +3363,7 @@
     "option_b": "It tends to reduce the biodiversity in the area in which it grows.",
     "option_c": "Its extract is used in the synthesis of pesticides.",
     "option_d": "None of these",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3746,8 +3372,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3756,8 +3381,7 @@
     "option_b": "The UNEP Secretariat",
     "option_c": "The UNFCC Secretariat",
     "option_d": "The World Meteorological Organization",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3766,8 +3390,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3776,8 +3399,7 @@
     "option_b": "Measuring oxygen levels in blood",
     "option_c": "Computing oxygen levels in forest ecosystems",
     "option_d": "Pollution assay in aquatic ecosystems",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3786,8 +3408,7 @@
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
     "option_d": "1 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3796,8 +3417,7 @@
     "option_b": "1 only",
     "option_c": "2 only",
     "option_d": "Both 1 and 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3806,8 +3426,7 @@
     "option_b": "Chambal River",
     "option_c": "Pulicat Lake",
     "option_d": "Deepor Beel",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3816,8 +3435,7 @@
     "option_b": "Maintenance of Tiger Reserves",
     "option_c": "Indigenous Satellite Navigation System",
     "option_d": "Security of National Highways",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3826,8 +3444,7 @@
     "option_b": "It no longer exists in the wild, a few individuals are under captive protection; and not it is\nimpossible to prevent its extinction.",
     "option_c": "It is endemic to a particular region of India.",
     "option_d": "Both",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3836,8 +3453,7 @@
     "option_b": "Kuno Palpur Wildlife Sanctuary",
     "option_c": "Mudumalai Wildlife Sanctuary",
     "option_d": "Sariska National Park",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3846,8 +3462,7 @@
     "option_b": "Granting licenses to foreign T.V. channels in our country",
     "option_c": "Exporting our food products to other countries",
     "option_d": "Permitting foreign educational institutions to set up their campuses in our country",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3856,8 +3471,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3866,8 +3480,7 @@
     "option_b": "Nallamala Forest",
     "option_c": "Nagarhole National Park",
     "option_d": "Seshachalam Biosphere Reserve",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3876,8 +3489,7 @@
     "option_b": "1 only",
     "option_c": "2 only",
     "option_d": "Both 1 and 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3886,8 +3498,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3896,8 +3507,7 @@
     "option_b": "plan of action outlined by the countries of the world to combat climate change",
     "option_c": "capital contributed by the member countries in the establishment of Asian Infrastructure\nInvestment Bank",
     "option_d": "plan of action outlined by the countries of the world regarding Sustainable Development\nGoals",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -3906,8 +3516,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3916,8 +3525,7 @@
     "option_b": "Higher Himalayas of Jammu and Kashmir",
     "option_c": "Salt marshes of western Gujarat",
     "option_d": "Western Ghats",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -3926,8 +3534,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": "1 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3936,8 +3543,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3946,8 +3552,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3956,8 +3561,7 @@
     "option_b": "use of piped natural gas in the kitchens of households",
     "option_c": "installation of CNG kits in motor-cars",
     "option_d": "installation of water meters in urban households",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3966,8 +3570,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3976,8 +3579,7 @@
     "option_b": "Anaimalai Forests",
     "option_c": "Maikala Hills",
     "option_d": "Tropical rain forests of northeast",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -3986,8 +3588,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -3996,8 +3597,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4006,8 +3606,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4016,8 +3615,7 @@
     "option_b": "It is an initiative of the United Nations to offer financial incentives to developing\ncountries to reduce greenhouse gas emissions and to adopt eco friendly technologies.",
     "option_c": "It is an intergovernmental agreement ratified by all the member countries of the United\nNations to reduce greenhouse gas emissions to specified levels by the year 2022.",
     "option_d": "It is one of the multilateral REDD+ initiatives hosted by the World Bank.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4026,8 +3624,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4036,8 +3633,7 @@
     "option_b": "Ganga Action Plan",
     "option_c": "linking of rivers",
     "option_d": "protection of Western Ghats",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4046,8 +3642,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4056,8 +3651,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1, 4 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4066,8 +3660,7 @@
     "option_b": "Himachal Pradesh",
     "option_c": "Karnataka",
     "option_d": "Maharashtra",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4076,8 +3669,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4086,8 +3678,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4096,8 +3687,7 @@
     "option_b": "Keibul Lamjao National Park",
     "option_c": "Keoladeo Ghana National Park",
     "option_d": "Sultanpur National Park",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4106,8 +3696,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4116,8 +3705,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4126,8 +3714,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4136,8 +3723,7 @@
     "option_b": "Olive ridley turtle",
     "option_c": "Gangetic dolphin",
     "option_d": "Gharial",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4146,8 +3732,7 @@
     "option_b": "Montreal Protocol",
     "option_c": "Kyoto Protocol",
     "option_d": "Nagoya Protocol",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4156,8 +3741,7 @@
     "option_b": "It is a Ministerial Meeting of the World Trade Organization",
     "option_c": "It is a Conference of the Inter-governmental Panel on Climate Change",
     "option_d": "It is a Conference of the Member Countries of the Convention on Biological Diversity",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4166,8 +3750,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4176,8 +3759,7 @@
     "option_b": "Indian Institute of Science",
     "option_c": "Indian Space Research Organization",
     "option_d": "Tata Institute of Fundamental Research",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4186,8 +3768,7 @@
     "option_b": "Nandadevi National Park",
     "option_c": "Neora Valley National Park",
     "option_d": "Namdapha National park",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4196,8 +3777,7 @@
     "option_b": "Nandadevi National Park",
     "option_c": "Neora Valley National Park",
     "option_d": "Namdapha National park",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4206,8 +3786,7 @@
     "option_b": "Geographical Indications of Goods (Registration and Protection) Act, 1999",
     "option_c": "Environment (Protection) Act, 1986",
     "option_d": "Wildlife (Protection) Act, 1972",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4216,8 +3795,7 @@
     "option_b": "1 only",
     "option_c": "2 only",
     "option_d": "Both 1 and 2",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4226,8 +3804,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4236,8 +3813,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4246,8 +3822,7 @@
     "option_b": "That part of the Earth which is inhabited by living organisms",
     "option_c": "A community of organisms together with the environment in which they live",
     "option_d": "The flora and fauna of a geographical area",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4256,8 +3831,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4266,8 +3840,7 @@
     "option_b": "The country in which the wetland is located should enact a law to prohibit any human\nactivity within five kilometers from the edge of the wetland.",
     "option_c": "The survival of the wetland depends on the cultural practices and traditions of certain\ncommunities living in its vicinity and therefore the cultural diversity therein should not be\ndestroyed.",
     "option_d": "It is given the status of 'World Heritage Site'.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4276,8 +3849,7 @@
     "option_b": "3 only",
     "option_c": "1, 2 and 3",
     "option_d": null,
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4286,8 +3858,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4296,8 +3867,7 @@
     "option_b": "It undertakes scientific research on environmental issues at the global level.",
     "option_c": "It is an agency under OECD to facilitate the transfer of technology and funds to\nunderdeveloped countries with the specific aim to protect their environment.",
     "option_d": "Both",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4306,8 +3876,7 @@
     "option_b": ".\n3. India has a manufacturing base for Solar Thermal technology, but not for photovoltaics.\nWhich of the statements given above is/are correct?",
     "option_c": "1 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4316,8 +3885,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4326,8 +3894,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4336,8 +3903,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4346,8 +3912,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4356,8 +3921,7 @@
     "option_b": "2 only",
     "option_c": "1, 2 and 3",
     "option_d": "Hibernation cannot be observed in any of the above",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4366,8 +3930,7 @@
     "option_b": "2 only",
     "option_c": "1, 2 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4376,8 +3939,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4386,8 +3948,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4396,8 +3957,7 @@
     "option_b": "2 and 4 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4406,8 +3966,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4416,8 +3975,7 @@
     "option_b": "botanical gardens",
     "option_c": "national parks",
     "option_d": "wildlife sanctuaries",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4426,8 +3984,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4436,8 +3993,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4446,8 +4002,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4456,8 +4011,7 @@
     "option_b": "Free energy is converted into potential energy and stored.",
     "option_c": "Food is oxidized to release carbon dioxide and water.",
     "option_d": "Oxygen is taken, and carbon dioxide and water vapour are given out.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4466,8 +4020,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4476,8 +4029,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Enviorment",
@@ -4486,8 +4038,7 @@
     "option_b": "Mite",
     "option_c": "Scorpion",
     "option_d": "Spider",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4496,8 +4047,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4506,8 +4056,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Enviorment",
@@ -4516,8 +4065,7 @@
     "option_b": "Crustaceans-Diatoms-Herrings",
     "option_c": "Diatoms-Herrings-Crustaceans",
     "option_d": "Crustaceans-Herrings-Diatoms",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Enviorment",
@@ -4526,8 +4074,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Enviorment",
@@ -4536,8 +4083,7 @@
     "option_b": "2 and 3 only",
     "option_c": "2 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4546,8 +4092,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": "All four",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4556,8 +4101,7 @@
     "option_b": "Converting crop residues into packing material",
     "option_c": "Producing biodegradable plastics",
     "option_d": "Producing biochar from thermo-chemical conversion of biomass",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4566,8 +4110,7 @@
     "option_b": "Understanding the genetic makeup of avian species of a habitat",
     "option_c": "Using air-bome devices to collect blood samples from moving animals",
     "option_d": "Sending drones to inaccessible areas to collect plant and animal samples from\nland surfaces and water bodies",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4576,8 +4119,7 @@
     "option_b": "Stimulating ‘stem cells’ to transform into diverse functional tissues",
     "option_c": "Promoting clonal propagation of horticultural plants",
     "option_d": "Assessing the e�cacy of drugs by conducting series of drug trials in a\npopulation\"",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4586,8 +4128,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4596,8 +4137,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4606,8 +4146,7 @@
     "option_b": "Only two",
     "option_c": "All three",
     "option_d": null,
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4616,8 +4155,7 @@
     "option_b": "Canada",
     "option_c": "Israel",
     "option_d": "Japan",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4626,8 +4164,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4636,8 +4173,7 @@
     "option_b": "They alleviate the body's pain and inflammation.",
     "option_c": "They act as immunosuppressants in the body.",
     "option_d": "They protect the body from the diseases caused by pathogens.\nCorrect Answer: d\nQ2. Consider the following statements:\n1. Other than those made by humans, nanoparticles do not exist in nature.\n2. Nanoparticles of some metallic oxides are used in the manufacture of some\ncosmetics.\n3. Nanoparticles of some commercial products which enter the environment are\nunsafe for humans.\nWhich of the statements given above is/are correct?",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4646,8 +4182,7 @@
     "option_b": "3 only",
     "option_c": "1 and 2",
     "option_d": "2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4656,8 +4191,7 @@
     "option_b": "2 and 4",
     "option_c": "1 and 4",
     "option_d": "2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4666,8 +4200,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4676,8 +4209,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4686,8 +4218,7 @@
     "option_b": "A spacecraft lands on another planet after making several orbital motions.",
     "option_c": "A missile is put into a stable orbit around the Earth and deorbits over a target on\nthe Earth.",
     "option_d": "A spacecraft moves along a comet with the same speed and places a probe on\nits surface.",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4696,8 +4227,7 @@
     "option_b": "Quantum Computing",
     "option_c": "Visible Light Communication Technologies",
     "option_d": "Wireless Communication Technologies",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4706,8 +4236,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4716,8 +4245,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4726,8 +4254,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4736,8 +4263,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4746,8 +4272,7 @@
     "option_b": "2, 3, 5, 6 and 7 only",
     "option_c": "1, 3, 4, 6 and 7 only",
     "option_d": "1, 2, 3, 4, 5, 6 and 7",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4756,8 +4281,7 @@
     "option_b": "Elephant grass",
     "option_c": "Lemongrass",
     "option_d": "Nut grass",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4766,8 +4290,7 @@
     "option_b": "2 and 3",
     "option_c": "3 and 4",
     "option_d": "1 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4776,8 +4299,7 @@
     "option_b": "1, 2 and 4 only",
     "option_c": "3, 4 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4786,8 +4308,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4796,8 +4317,7 @@
     "option_b": "developing genetically modified crop plants",
     "option_c": "production of plant growth substances",
     "option_d": "production of biofertilizers",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4806,8 +4326,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4816,8 +4335,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4826,8 +4344,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4836,8 +4353,7 @@
     "option_b": "it is a good conductor of heat",
     "option_c": "it has a high value of specific heat",
     "option_d": "it has an oxide of hydrogen",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4846,8 +4362,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4856,8 +4371,7 @@
     "option_b": "development of India’s own satellite navigation system",
     "option_c": "radio collars for wildlife tracking",
     "option_d": "spread of viral diseases",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4866,8 +4380,7 @@
     "option_b": "Low-density polyethylene",
     "option_c": "Polycarbonate",
     "option_d": "Polyethylene terephthalate",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4876,8 +4389,7 @@
     "option_b": "Fruit-ripening substances",
     "option_c": "Reused plastic containers",
     "option_d": "Toiletries",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4886,8 +4398,7 @@
     "option_b": "Gravity of stellar bodies does not change.",
     "option_c": "Light always travels in a straight line.",
     "option_d": "Speed of light is always the same.",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4896,8 +4407,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4906,8 +4416,7 @@
     "option_b": "1, 2 and 3 only",
     "option_c": "1, 2 and 4 only",
     "option_d": "1, 3 and 4 only",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4916,8 +4425,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "2, 4 and 5 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4926,8 +4434,7 @@
     "option_b": "genetic modification of sperm producing cells",
     "option_c": "development of stem cells into functional embryos",
     "option_d": "prevention of mitochondrial diseases in o�spring",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4936,8 +4443,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -4946,8 +4452,7 @@
     "option_b": "Food security infrastructure",
     "option_c": "Health care and education infrastructure",
     "option_d": "Telecommunication and transportation infrastructure",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -4956,8 +4461,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -4966,8 +4470,7 @@
     "option_b": "2 and 3 only",
     "option_c": "2 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4976,8 +4479,7 @@
     "option_b": "New horizons",
     "option_c": "Lisa Pathfinder",
     "option_d": "Evolved LISA",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4986,8 +4488,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -4996,8 +4497,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1, 3 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5006,8 +4506,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5016,8 +4515,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5026,8 +4524,7 @@
     "option_b": "3 and 4",
     "option_c": "1, 2 and 3",
     "option_d": "4 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5036,8 +4533,7 @@
     "option_b": "an early human species",
     "option_c": "a cave system found in North-East India",
     "option_d": "a geological period in the history of Indian subcontinent",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5046,8 +4542,7 @@
     "option_b": "Pieces of artificial functional DNA can be created in laboratories.",
     "option_c": "A piece of DNA taken out from an animal cell can be made to replicate outside a\nliving cell in a laboratory.",
     "option_d": "Cells taken out from plasma and animals can be made to undergo cell division in\nlaboratory petri dishes.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5056,8 +4551,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5066,8 +4560,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5076,8 +4569,7 @@
     "option_b": "2 and 3",
     "option_c": "1 and 3",
     "option_d": "1 and 4 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5086,8 +4578,7 @@
     "option_b": "'Gravitational waves' were detected.",
     "option_c": "Possibility of inter-galactic space travel through 'wormhole' was confirmed.",
     "option_d": "It enabled the scientists to understand 'singularity'.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5096,8 +4587,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1, 3 and 4",
     "option_d": "2, 3 and 4",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5106,8 +4596,7 @@
     "option_b": "A biosensor used in the accurate detection of pathogens in patients",
     "option_c": "A gene that makes plants pest-resistant",
     "option_d": "A herbicidal substance synthesized in genetically modified crops",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5116,8 +4605,7 @@
     "option_b": "Hepatitis B. unlike Hepatitis C, does not have a vaccine.",
     "option_c": "Globally, the number of people infected with Hepatitis B and C viruses arc several\ntimes more than those infected with HIV.",
     "option_d": "Some of those infected with Hepatitis B and C viruses do not show the symptoms\nfor many years.",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5126,8 +4614,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5136,8 +4623,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5146,8 +4632,7 @@
     "option_b": "Cryptocurrency",
     "option_c": "Cyber attacks",
     "option_d": "Mini satellites",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5156,8 +4641,7 @@
     "option_b": "1 and 2 only",
     "option_c": "2 and 3 only",
     "option_d": null,
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5166,8 +4650,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5176,8 +4659,7 @@
     "option_b": "2 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5186,8 +4668,7 @@
     "option_b": "Internet of Things",
     "option_c": "Internet Protocol",
     "option_d": "Virtual Private Network",
-    "correct_answer": "b",
-    "difficulty": "medium"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5196,8 +4677,7 @@
     "option_b": "2, 3 and 5 only",
     "option_c": "1 and 4 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5206,8 +4686,7 @@
     "option_b": "2 and 3",
     "option_c": "1 and 2",
     "option_d": "3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5216,8 +4695,7 @@
     "option_b": "3 and 4 only",
     "option_c": "1, 2 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5226,8 +4704,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5236,8 +4713,7 @@
     "option_b": "2 only",
     "option_c": "1, 2 and 3",
     "option_d": "None of the above statements is correct",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5246,8 +4722,7 @@
     "option_b": "Manufacture of biodegradable plastics",
     "option_c": "Reproductive cloning of animals",
     "option_d": "Production of organisms free of diseases",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5256,8 +4731,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5266,8 +4740,7 @@
     "option_b": "To detect neutrinos",
     "option_c": "To detect gravitational waves",
     "option_d": "To detect the e�ectiveness of missile defense system",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5276,8 +4749,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5286,8 +4758,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5296,8 +4767,7 @@
     "option_b": "Study of the solar and the lunar eclipses",
     "option_c": "Placing satellites in the orbit of the Earth",
     "option_d": "Origin and evolution of living organisms on the earth",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5306,8 +4776,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5316,8 +4785,7 @@
     "option_b": "2 only",
     "option_c": "3 only",
     "option_d": "2 and 3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5326,8 +4794,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5336,8 +4803,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5346,8 +4812,7 @@
     "option_b": "2 and 3 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5356,8 +4821,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5366,8 +4830,7 @@
     "option_b": "the full range of mRNA molecules expressed by an organism",
     "option_c": "the description of the mechanism of gene expression",
     "option_d": "a mechanism of genetic mutations taking place in cells",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5376,8 +4839,7 @@
     "option_b": "2, 3 and 4 only",
     "option_c": "1, 2 and 4 only",
     "option_d": "1 and 4 only",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5386,8 +4848,7 @@
     "option_b": "wireless communication technology",
     "option_c": "solar power production technology",
     "option_d": "water conservation technology",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5396,8 +4857,7 @@
     "option_b": "Nuclear-powered submarine",
     "option_c": "Torpedo launch and recovery vessel",
     "option_d": "Nuclear-powered aircraft carrier",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5406,8 +4866,7 @@
     "option_b": "Solar-powered two seater aircraft designed by Japan",
     "option_c": "Space observatory launched by China",
     "option_d": "Reusable rocket designed by ISRO",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5416,8 +4875,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5426,8 +4884,7 @@
     "option_b": "It attains a global role in satellite-navigation",
     "option_c": "It can drastically improve the e�ciency of its fission reactors in power generation",
     "option_d": "It can build fusion reactors for power generation",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5436,8 +4893,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5446,8 +4902,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5456,8 +4911,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5466,8 +4920,7 @@
     "option_b": "S. Chandrasekhar",
     "option_c": "S. N. Bose",
     "option_d": "C. V. Raman",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5476,8 +4929,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5486,8 +4938,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5496,8 +4947,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "1 and 3 only",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5506,8 +4956,7 @@
     "option_b": "region inside the Earth where shale gas is available",
     "option_c": "search for the Earth-like planets in outer space",
     "option_d": "search for meteorites containing precious metals",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Science And Tech",
@@ -5516,8 +4965,7 @@
     "option_b": "4 and 5 only",
     "option_c": "1 and 2 only",
     "option_d": "1, 2, 3, 4 and 5",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5526,8 +4974,7 @@
     "option_b": "India’s satellite to provide services to the countries of Indian Ocean Rim",
     "option_c": "a scientific establishment set up by India in Antarctic region",
     "option_d": "India’s underwater observatory to scientifically study the Arctic region",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5536,8 +4983,7 @@
     "option_b": "Bird flu",
     "option_c": "Dengue",
     "option_d": "Swine flu",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Science And Tech",
@@ -5546,8 +4992,7 @@
     "option_b": "1 only",
     "option_c": "2 and 3 only",
     "option_d": "1 and 3 only",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5556,8 +5001,7 @@
     "option_b": "3 only",
     "option_c": "1, 2 and 3",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5566,8 +5010,7 @@
     "option_b": "algae and fungi",
     "option_c": "bacteria and fungi",
     "option_d": "fungi and mosses",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5576,8 +5019,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5586,8 +5028,7 @@
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5596,8 +5037,7 @@
     "option_b": "3 only",
     "option_c": "1, 2 and 3",
     "option_d": null,
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Science And Tech",
@@ -5606,8 +5046,7 @@
     "option_b": "3 only",
     "option_c": "1, 2 and 3",
     "option_d": null,
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Science And Tech",
@@ -5616,8 +5055,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5626,8 +5064,7 @@
     "option_b": "Only two",
     "option_c": "Only three",
     "option_d": null,
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5636,8 +5073,7 @@
     "option_b": "Mallikarjuna",
     "option_c": "Vira Vijaya",
     "option_d": "Virupaksha",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5646,8 +5082,7 @@
     "option_b": "Only two pairs",
     "option_c": "Only three pairs",
     "option_d": "All four pairs",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5656,8 +5091,7 @@
     "option_b": "Humayun",
     "option_c": "Shahjahan",
     "option_d": "Aurangzeb",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5666,8 +5100,7 @@
     "option_b": "Vedas are eternal, self-existent and wholly authoritative.",
     "option_c": "Logical arguments were essential means for the highest bliss",
     "option_d": "Salvation was to be obtained through meditation.",
-    "correct_answer": "a",
-    "difficulty": "medium"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5676,8 +5109,7 @@
     "option_b": "Coins",
     "option_c": "Ornaments",
     "option_d": "Weapons",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5686,8 +5118,7 @@
     "option_b": "2 only",
     "option_c": "1 and 3",
     "option_d": "3 only",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5696,8 +5127,7 @@
     "option_b": "Qalandars",
     "option_c": "Persian calligraphists",
     "option_d": "Sayyids",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5706,8 +5136,7 @@
     "option_b": "Sarkar – Paragana – Suba",
     "option_c": "Suba – Sarkar – Paragana",
     "option_d": "Paragana – Suba – Sarkar",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5716,8 +5145,7 @@
     "option_b": "1, 3 and 4 only",
     "option_c": "2 and 4 only",
     "option_d": "1, 2, 3 and 4",
-    "correct_answer": "d",
-    "difficulty": "hard"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5726,8 +5154,7 @@
     "option_b": "1 and 2",
     "option_c": "3 only",
     "option_d": "2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5736,8 +5163,7 @@
     "option_b": "3 – 1 – 4 - 2",
     "option_c": "2 – 4 – 1 - 3",
     "option_d": "3 – 4 – 1 – 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5746,8 +5172,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5756,8 +5181,7 @@
     "option_b": "Chandela",
     "option_c": "Rashtrakuta",
     "option_d": "Vijayanagara",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5766,8 +5190,7 @@
     "option_b": "1 and 2 only",
     "option_c": "3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "a",
-    "difficulty": "hard"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5776,8 +5199,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "d",
-    "difficulty": "medium"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5786,8 +5208,7 @@
     "option_b": "Tansen composed Dhrupads on Hindu gods and goddesses.",
     "option_c": "Tansen composed songs on his patrons.",
     "option_d": "Tansen invented many Ragas.",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5796,8 +5217,7 @@
     "option_b": "Akbar",
     "option_c": "Jahangir",
     "option_d": "Shah Jahan",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5806,8 +5226,7 @@
     "option_b": "Jainism",
     "option_c": "Vaishnavism",
     "option_d": "Shaivism",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5816,8 +5235,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "medium"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5826,8 +5244,7 @@
     "option_b": "2 only",
     "option_c": "Both 1 and 2",
     "option_d": "Neither 1 nor 2",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5836,8 +5253,7 @@
     "option_b": "warriors",
     "option_c": "weavers",
     "option_d": "traders",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5846,8 +5262,7 @@
     "option_b": "land grant made to military officers",
     "option_c": "waterwheel used in the irrigation of land",
     "option_d": "wasteland converted to cultivated land",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5856,8 +5271,7 @@
     "option_b": "Parivraajaka",
     "option_c": "Agrahaarika",
     "option_d": "Maagadha",
-    "correct_answer": "d",
-    "difficulty": "easy"
+    "correct_answer": "d"
   },
   {
     "topic": "Medival History",
@@ -5866,8 +5280,7 @@
     "option_b": "3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "b",
-    "difficulty": "hard"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5876,8 +5289,7 @@
     "option_b": "a handmade drawing on bamboo handicrafts in North-East India",
     "option_c": "a block-painted woolen cloth in Western Himalayan region of India",
     "option_d": "a hand-painted decorative silk cloth in North-Western India",
-    "correct_answer": "a",
-    "difficulty": "easy"
+    "correct_answer": "a"
   },
   {
     "topic": "Medival History",
@@ -5886,8 +5298,7 @@
     "option_b": "3 only",
     "option_c": "2 and 3 only",
     "option_d": "1, 2 and 3",
-    "correct_answer": "c",
-    "difficulty": "hard"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5896,8 +5307,7 @@
     "option_b": "village headmen",
     "option_c": "specialists in Vedic rituals",
     "option_d": "chiefs of craft guilds",
-    "correct_answer": "b",
-    "difficulty": "easy"
+    "correct_answer": "b"
   },
   {
     "topic": "Medival History",
@@ -5906,8 +5316,7 @@
     "option_b": "Nyaya and Vaisheshika",
     "option_c": "Lokayata and Kapalika",
     "option_d": "Sankhya and Yoga",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   },
   {
     "topic": "Medival History",
@@ -5916,7 +5325,6 @@
     "option_b": "Akbar's private prayer chamber",
     "option_c": "the hall in which Akbar held discussions with scholars of various religions",
     "option_d": "the room in which the nobles belonging in different religions gathered to discuss\nreligious affairs",
-    "correct_answer": "c",
-    "difficulty": "easy"
+    "correct_answer": "c"
   }
 ]

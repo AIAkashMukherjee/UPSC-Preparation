@@ -21,7 +21,6 @@ def init_storage():
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id TEXT NOT NULL,
             topic TEXT NOT NULL,
-            difficulty TEXT NOT NULL,
             score INTEGER NOT NULL,
             total_questions INTEGER NOT NULL,
             percentage REAL NOT NULL,
@@ -33,7 +32,7 @@ def init_storage():
     conn.close()
 
 
-def save_result(user_id: str, topic: str, difficulty: str,
+def save_result(user_id: str, topic: str, 
                 score: int, total_questions: int):
     """Save one quiz attempt to SQLite + CSV."""
     os.makedirs(RESULTS_DIR, exist_ok=True)
@@ -48,10 +47,10 @@ def save_result(user_id: str, topic: str, difficulty: str,
     cur.execute(
         """
         INSERT INTO quiz_results
-        (user_id, topic, difficulty, score, total_questions, percentage, timestamp)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
+        (user_id, topic, score, total_questions, percentage, timestamp)
+        VALUES (?,  ?, ?, ?, ?, ?)
         """,
-        (user_id, topic, difficulty, score, total_questions, percentage, now),
+        (user_id, topic, score, total_questions, percentage, now),
     )
     conn.commit()
     conn.close()
@@ -59,15 +58,13 @@ def save_result(user_id: str, topic: str, difficulty: str,
     # ---- 2) Save to CSV ----
     safe_user = user_id.replace(" ", "_")
     safe_topic = topic.replace(" ", "_")
-    safe_diff = difficulty.replace(" ", "_")
-    filename = f"{safe_user}_{safe_topic}_{safe_diff}_{date_for_filename}.csv"
+    filename = f"{safe_user}_{safe_topic}_{date_for_filename}.csv"
     csv_path = os.path.join(RESULTS_DIR, filename)
 
     df = pd.DataFrame(
         [{
             "user_id": user_id,
             "topic": topic,
-            "difficulty": difficulty,
             "score": score,
             "total_questions": total_questions,
             "percentage": percentage,
@@ -87,7 +84,7 @@ def load_user_history(user_id: str) -> pd.DataFrame:
     conn = sqlite3.connect(DB_PATH)
     df = pd.read_sql_query(
         """
-        SELECT timestamp, topic, difficulty, score, total_questions, percentage
+        SELECT timestamp, topic,  score, total_questions, percentage
         FROM quiz_results
         WHERE user_id = ?
         ORDER BY timestamp DESC

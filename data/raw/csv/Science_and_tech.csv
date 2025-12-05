@@ -1,21 +1,21 @@
-﻿topic,question,option_a,option_b,option_c,option_d,correct_answer,difficulty
+﻿topic,question,option_a,option_b,option_c,option_d,correct_answer
 Science And Tech,"Consider the following:
 1. Aerosols
 2. Foam agents
 3. Fire retardants
 4. Lubricants
-In the making of how many of the above are hydrofluorocarbons used?",Only one,Only two,Only three,All four,c,hard
+In the making of how many of the above are hydrofluorocarbons used?",Only one,Only two,Only three,All four,c
 Science And Tech,"‘Wolbachia method’ is sometimes talked about with reference to which one of the
-following?",Controlling the viral diseases spread by mosquitoes,Converting crop residues into packing material,Producing biodegradable plastics,Producing biochar from thermo-chemical conversion of biomass,a,easy
+following?",Controlling the viral diseases spread by mosquitoes,Converting crop residues into packing material,Producing biodegradable plastics,Producing biochar from thermo-chemical conversion of biomass,a
 Science And Tech,‘Aerial metagenomics’ best refers to which one of the following situations?,Collecting DNA samples from air in a habitat at one go,Understanding the genetic makeup of avian species of a habitat,Using air-bome devices to collect blood samples from moving animals,"Sending drones to inaccessible areas to collect plant and animal samples from
-land surfaces and water bodies",a,easy
+land surfaces and water bodies",a
 Science And Tech,‘Microsatellite DNA’ is used in the case of which one of the following?,Studying the evolutionary relationships among various species of fauna,Stimulating ‘stem cells’ to transform into diverse functional tissues,Promoting clonal propagation of horticultural plants,"Assessing the e�cacy of drugs by conducting series of drug trials in a
-population""",a,easy
+population""",a
 Science And Tech,"Consider the following statements :
 1. Carbon fibres are used in the manufacture of components used in
 automobiles and aircraftes.
 2. Carbon fibres once used cannot be recycled.
-Which of the statements give above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,a,medium
+Which of the statements give above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,a
 Science And Tech,"Consider the following actions :
 1. Detection of car crash/collision which results in the deployment of airbags
 almost instantaneously.
@@ -23,21 +23,21 @@ almost instantaneously.
 in the immediate turning o� of the hard drive
 3. Detection of the tit of smartphone which results in the rotation of display
 between portrait and landscape mode
-In how many of the above action is the function of accelerometer required?",Only one,Only two,All three,None,c,hard
+In how many of the above action is the function of accelerometer required?",Only one,Only two,All three,None,c
 Science And Tech,"Consider the following pairs :
 Objects in space Description
 1. Cepheids Giant clouds of dust and gas in space
 2. Nebulae Stars which brighten and dim periodically
 3. Pulsars Neutron stars that are formed when massive stars run out of fuel and
 collapse
-How many of the above pairs are correctly matched?",Only one,Only two,All three,None,a,hard
-Science And Tech,Which one of the following countries has its own Satellite Navigation System?,Australia,Canada,Israel,Japan,d,easy
+How many of the above pairs are correctly matched?",Only one,Only two,All three,None,a
+Science And Tech,Which one of the following countries has its own Satellite Navigation System?,Australia,Canada,Israel,Japan,d
 Science And Tech,"Consider the following statements :
 1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights,
 while cruise missiles are rocketpowered only in the initial phase of flight.
 2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a
 solid-fuelled intercontinental ballistic missile.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,hard
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
 Science And Tech,"Which one of the following statements best describes the role of B cells and T
 cells in the human body?",They protect the body from environmental allergens.,They alleviate the body's pain and inflammation.,They act as immunosuppressants in the body.,"They protect the body from the diseases caused by pathogens.
 Correct Answer: d
@@ -47,13 +47,13 @@ Q2. Consider the following statements:
 cosmetics.
 3. Nanoparticles of some commercial products which enter the environment are
 unsafe for humans.
-Which of the statements given above is/are correct?",d,easy
+Which of the statements given above is/are correct?",d
 Science And Tech,"Consider the following statements :
 DNA Barcoding can be a tool to:
 1. assess the age of a plant or animal.
 2. distinguish among species that look alike.
 3. identify undesirable animal or plant materials in processed foods.
-Which of the statements given above is/are correct?",1 only,3 only,1 and 2,2 and 3,d,hard
+Which of the statements given above is/are correct?",1 only,3 only,1 and 2,2 and 3,d
 Science And Tech,"With reference to polyethylene terephthalate, the use of which is so widespread
 in our daily lives, consider the following statements:
 1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.
@@ -61,48 +61,48 @@ in our daily lives, consider the following statements:
 3. Bottles made of it can be recycled into other products.
 4. Articles made of it can be easily disposed of by incineration without causing
 greenhouse gas emissions.
-Which of the statements given above are correct?",1 and 3,2 and 4,1 and 4,2 and 3,a,hard
+Which of the statements given above are correct?",1 and 3,2 and 4,1 and 4,2 and 3,a
 Science And Tech,"With reference to Web 3.0, consider the following statements:
 1. Web 3.0 technology enables people to control their own data.
 2. In Web 3.0 world, there can blockchain based social networks.
 3. Web 3.0 is operated by users collectively rather than a corporation.
-Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"With reference to """"Software as a Service (SaaS)"""", consider the following
 statements:
 1. SaaS buyers can customise the user interface and can change data fields.
 2. SaaS users can access their data through their mobile devices.
 3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.
-Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Which one of the following statements best reflects the idea behind the
 """"Fractional Orbital Bombardment System"""" often talked about in media?","A hypersonic missile is launched into space to counter the asteroid approaching
 the Earth and explode it in space.",A spacecraft lands on another planet after making several orbital motions.,"A missile is put into a stable orbit around the Earth and deorbits over a target on
 the Earth.","A spacecraft moves along a comet with the same speed and places a probe on
-its surface.",c,easy
+its surface.",c
 Science And Tech,"Which one of the following is the context in which the term """"qubit"""" is
-mentioned?",Cloud Services,Quantum Computing,Visible Light Communication Technologies,Wireless Communication Technologies,b,easy
+mentioned?",Cloud Services,Quantum Computing,Visible Light Communication Technologies,Wireless Communication Technologies,b
 Science And Tech,"Consider the following communication technologies:
 1. Closed-circuit Television
 2. Radio Frequency Identification
 3. Wireless Local Area Network
-Which of the above are considered Short-Range devices/technologies?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the above are considered Short-Range devices/technologies?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Consider the following statements:
 1. Biofilms can form on medical implants within human tissues.
 2. Biofilms can form on food and food processing surfaces.
 3. Biofilms can exhibit antibiotic resistance.
-Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Consider the following statements in respect of probiotics:
 1. Probiotics are made of both bacteria and yeast.
 2. The organisms in probiotics are found in foods we ingest but they do not naturally
 occur in our gut.
 3. Probiotics help in the digestion of milk sugars.
-Which of the statements given above is/are correct?",1 only,2 only,1 and 3,2 and 3,c,hard
+Which of the statements given above is/are correct?",1 only,2 only,1 and 3,2 and 3,c
 Science And Tech,"In the context of vaccines manufactured to prevent COVID-19 pandemic,
 consider the following statements:
 1. The Serum Institute of India produced COVID-19 vaccine named Covishield using
 mRNA platform.
 2. Sputnik V vaccine is manufactured using vector based platform.
 3. COVAXIN is an inactivated pathogen based vaccine.
-Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",b,hard
+Which of the statements given above are correct?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",b
 Science And Tech,"If a major solar storm (solar flare) reaches the Earth, which of the following are
 the possible e�ects on the Earth?
 1. GPS and navigation systems could fail.
@@ -113,14 +113,14 @@ the possible e�ects on the Earth?
 6. Orbits of the satellites could be disturbed.
 7. Shortwave radio communication of the aircraft flying over polar regions could be
 interrupted.
-Select the correct answer using the code given below:","1, 2, 4 and 5 only","2, 3, 5, 6 and 7 only","1, 3, 4, 6 and 7 only","1, 2, 3, 4, 5, 6 and 7",c,hard
-Science And Tech,Which one of the following is used in preparing a natural mosquito repellent?,Congress grass,Elephant grass,Lemongrass,Nut grass,c,easy
+Select the correct answer using the code given below:","1, 2, 4 and 5 only","2, 3, 5, 6 and 7 only","1, 3, 4, 6 and 7 only","1, 2, 3, 4, 5, 6 and 7",c
+Science And Tech,Which one of the following is used in preparing a natural mosquito repellent?,Congress grass,Elephant grass,Lemongrass,Nut grass,c
 Science And Tech,"Consider the following kinds of organisms:
 1. Copepods
 2. Cyanobacteria
 3. Diatoms
 4. Foraminifera
-Which of the above are primary producers in the food chains of oceans?",1 and 2,2 and 3,3 and 4,1 and 4,b,hard
+Which of the above are primary producers in the food chains of oceans?",1 and 2,2 and 3,3 and 4,1 and 4,b
 Science And Tech,"Magnetite particles, suspected to cause neurodegenerative problems, are
 generated as environmental pollutants from which of the following?
 1. Brakes of motor vehicles
@@ -128,47 +128,47 @@ generated as environmental pollutants from which of the following?
 3. Microwave stoves within homes
 4. Power plants
 5. Telephone lines
-Select the correct answer using the code given below.","1, 2, 3 and 5 only","1, 2 and 4 only","3, 4 and 5 only","1, 2, 3, 4 and 5",b,hard
+Select the correct answer using the code given below.","1, 2, 3 and 5 only","1, 2 and 4 only","3, 4 and 5 only","1, 2, 3, 4 and 5",b
 Science And Tech,"In the context of hereditary diseases, consider the following statements:
 1. Passing on mitochondrial diseases from parent to child can be prevented by
 mitochondrial replacement therapy either before or after in vitro fertilization
 of the egg.
 2. A child inherits mitochondrial diseases entirely from mother and not from
 father.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,hard
-Science And Tech,Bollgard I and Bollgard II technologies are mentioned in the context of,clonal propagation of crop plants,developing genetically modified crop plants,production of plant growth substances,production of biofertilizers,b,easy
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
+Science And Tech,Bollgard I and Bollgard II technologies are mentioned in the context of,clonal propagation of crop plants,developing genetically modified crop plants,production of plant growth substances,production of biofertilizers,b
 Science And Tech,"In a pressure cooker, the temperature at which the food is cooked depends
 mainly upon which of the following?
 1. Area of the hole in the lid
 2. Temperature of the flame
 3. Weight of the lid
-Select the correct answer using the code given below.",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c,hard
+Select the correct answer using the code given below.",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c
 Science And Tech,"Consider the following:
 1. Bacteria
 2. Fungi
 3. Virus
-Which of the above can be cultured in an artificial/synthetic medium?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",a,hard
+Which of the above can be cultured in an artificial/synthetic medium?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",a
 Science And Tech,"Consider the following statements:
 1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have
 double-stranded DNA genomes.
 2. Common cold is sometimes caused by an adenovirus whereas AIDS is caused
 by a retrovirus.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,b,medium
-Science And Tech,Water can dissolve more substances than any other liquid because,it is dipolar in nature,it is a good conductor of heat,it has a high value of specific heat,it has an oxide of hydrogen,a,easy
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,b
+Science And Tech,Water can dissolve more substances than any other liquid because,it is dipolar in nature,it is a good conductor of heat,it has a high value of specific heat,it has an oxide of hydrogen,a
 Science And Tech,"With reference to street lighting, how do sodium lamps di�er from LED lamps?
 1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED
 lamps.
 2. As street lights, sodium lamps have a longer lifespan than LED lamps.
 3. The spectrum of visible light from sodium lamps is almost monochromatic
 while LED lamps o�er significant colour advantages in street lighting.
-Select the correct answer using the code given below.",3 only,2 only,1 and 3 only,"1, 2 and 3",c,hard
-Science And Tech,The term ‘ACE2’ is talked about in the context of,genes introduced in the genetically modified plants,development of India’s own satellite navigation system,radio collars for wildlife tracking,spread of viral diseases,d,easy
+Select the correct answer using the code given below.",3 only,2 only,1 and 3 only,"1, 2 and 3",c
+Science And Tech,The term ‘ACE2’ is talked about in the context of,genes introduced in the genetically modified plants,development of India’s own satellite navigation system,radio collars for wildlife tracking,spread of viral diseases,d
 Science And Tech,Bisphenol A (BP,", a cause of concern, is a structural/key component in the
-manufacture of which of the following kinds of plastics?",Low-density polyethylene,Polycarbonate,Polyethylene terephthalate,b,easy
+manufacture of which of the following kinds of plastics?",Low-density polyethylene,Polycarbonate,Polyethylene terephthalate,b
 Science And Tech,"Triclosan', considered harmful when exposed to high levels for a long time, is
-most likely present in which of the following?",Food preservatives,Fruit-ripening substances,Reused plastic containers,Toiletries,d,easy
+most likely present in which of the following?",Food preservatives,Fruit-ripening substances,Reused plastic containers,Toiletries,d
 Science And Tech,"Which one of the following is a reason why astronomical distances are
-measured in light-years?",Distances among stellar bodies do not change.,Gravity of stellar bodies does not change.,Light always travels in a straight line.,Speed of light is always the same.,d,easy
+measured in light-years?",Distances among stellar bodies do not change.,Gravity of stellar bodies does not change.,Light always travels in a straight line.,Speed of light is always the same.,d
 Science And Tech,"In India, under cyber insurance for individuals, which of the following benefits are
 generally covered, in addition to payment for the loss of funds and other benefits?
 1. Cost of restoration of the computer system in case of malware disrupting
@@ -177,14 +177,14 @@ access to one's computer
 3. Cost of hiring a specialized consultant to minimize the loss in case of cyber
 extortion
 4. Cost of defence in the Court of Law if any third party files a suit
-Select the correct answer using the code given below:","1, 2 and 4 only","1, 3 and 4 only",2 and 3 only,"1, 2, 3 and 4",b,hard
+Select the correct answer using the code given below:","1, 2 and 4 only","1, 3 and 4 only",2 and 3 only,"1, 2, 3 and 4",b
 Science And Tech,With reference to Visible Light Communication (VL,"technology, which of the
 following statements are correct?
 1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.
 2. VLC is known as long-range optical wireless communication.
 3. VLC can transmit large amounts of data faster than Bluetooth.
 4. VLC has no electromagnetic interference.
-Select the correct answer using the code given below:","1, 2 and 3 only","1, 2 and 4 only","1, 3 and 4 only",c,easy
+Select the correct answer using the code given below:","1, 2 and 3 only","1, 2 and 4 only","1, 3 and 4 only",c
 Science And Tech,"With the present state of development, Artificial Intelligence can e�ectively do
 which of the following?
 1. Bring down electricity consumption in industrial units
@@ -192,60 +192,60 @@ which of the following?
 3. Disease diagnosis
 4. Text-to-Speech Conversion
 5. Wireless transmission of electrical energy
-Select the correct answer using the code given below:","1, 2, 3 and 5 only","1, 3 and 4 only","2, 4 and 5 only","1, 2, 3, 4 and 5",b,hard
+Select the correct answer using the code given below:","1, 2, 3 and 5 only","1, 3 and 4 only","2, 4 and 5 only","1, 2, 3, 4 and 5",b
 Science And Tech,"In the context of recent advances of human reproductive technology,
-“Pronuclear Transfer” is used for",fertilization of egg in vitro by the donor sperm,genetic modification of sperm producing cells,development of stem cells into functional embryos,prevention of mitochondrial diseases in o�spring,d,easy
+“Pronuclear Transfer” is used for",fertilization of egg in vitro by the donor sperm,genetic modification of sperm producing cells,development of stem cells into functional embryos,prevention of mitochondrial diseases in o�spring,d
 Science And Tech,"Which of the following statements are correct regarding the general di�erence
 between plant and animal cells?
 1. Plant cells have cellulose cell walls whilst animal cells do not.
 2. Plant cells do not have plasma membranes unlike animal cells which do.
 3. Mature plant cell has one large vacuole whilst an animal cell has many small
 vacuoles.
-Select the correct answer using the code given below:",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c,hard
-Science And Tech,"In India, the term “Public Key Infrastructure” is used in the context of",Digital security infrastructure,Food security infrastructure,Health care and education infrastructure,Telecommunication and transportation infrastructure,a,easy
+Select the correct answer using the code given below:",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c
+Science And Tech,"In India, the term “Public Key Infrastructure” is used in the context of",Digital security infrastructure,Food security infrastructure,Health care and education infrastructure,Telecommunication and transportation infrastructure,a
 Science And Tech,"What is the importance of using Pneumococcal Conjugate Vaccines in India?
 1. These vaccines are e�ective against pneumonia as well as meningitis and
 sepsis.
 2. Dependence on antibiotics that are not e�ective against drug-resistant
 bacteria can be reduced.
 3. These vaccines have no side e�ects and cause no allergic reactions.
-Select the correct answer using the code given below:",1 only,1 and 2 only,3 only,"1, 2 and 3",b,hard
+Select the correct answer using the code given below:",1 only,1 and 2 only,3 only,"1, 2 and 3",b
 Science And Tech,"Consider the following statements:
 1. Genetic changes can be introduced in the cells that produce eggs or sperms
 of a prospective parent.
 2. A person’s genome can be edited before birth at the early embryonic stage.
 3. Human induced pluripotent stem cells can be injected into the embryo of a
 pig.
-Which of the statements given above is/are correct?",1 only,2 and 3 only,2 only,"1, 2 and 3",d,hard
+Which of the statements given above is/are correct?",1 only,2 and 3 only,2 only,"1, 2 and 3",d
 Science And Tech,"“The experiment will employ a trio of spacecraft flying in formation in the shape
 of an equilateral triangle that has sides one million kilometres long, with lasers
-shining between the craft.” The experiment in question refers to",Voyager-2,New horizons,Lisa Pathfinder,Evolved LISA,d,medium
+shining between the craft.” The experiment in question refers to",Voyager-2,New horizons,Lisa Pathfinder,Evolved LISA,d
 Science And Tech,"Consider the following activities:
 1. Spraying pesticides on a crop field
 2. Inspecting the craters of active volcanoes
 3. Collecting breath samples from spouting whales for DNA analysis
 At the present level of technology, which of the above activities can be successfully
-carried out by using drones?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+carried out by using drones?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"With reference to carbon nanotubes, consider the following statements:
 1. They can be used as carriers of drugs and antigens in the human body.
 2. They can be made into artificial blood capillaries for an injured part of the
 human body.
 3. They can be used in biochemical sensors.
 4. Carbon nanotubes are biodegradable.
-Which of the statements given above are correct?",1 and 2 only,"2, 3 and 4 only","1, 3 and 4 only","1, 2, 3 and 4",c,hard
+Which of the statements given above are correct?",1 and 2 only,"2, 3 and 4 only","1, 3 and 4 only","1, 2, 3 and 4",c
 Science And Tech,"For the measurement/estimation of which of the following are satellite
 images/remote sensing data used?
 1. Chlorophyll content in the vegetation of a specific location
 2. Greenhouse gas emissions from rice paddies of a specific location
 3. Land surface temperatures of a specific location
-Select the correct answer using the code given below.",1 Only,2 and 3 only,3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below.",1 Only,2 and 3 only,3 only,"1, 2 and 3",d
 Science And Tech,"With reference to communication technologies, what is/are the
 di�erence/di�erences between LTE (Long-Term Evolution) and VoLTE (Voice over
 Long-Term Evolution)?
 1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as
 advanced 3G.
 2. LTE is data-only technology and VoLTE is voice-only technology.
-Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,medium
+Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
 Science And Tech,"In the context of digital technologies for entertainment, consider the following
 statements:
 1. In Augmented Reality (AR), a simulated environment is created and the
@@ -256,13 +256,13 @@ real-life objects or surroundings.
 using the camera of smart-phone or PC.
 4. VR closes the world, and transposes an individual, providing complete
 immersion experience.
-Which of the statements given above is/are correct?",1 and 2 only,3 and 4,"1, 2 and 3",4 only,b,hard
-Science And Tech,The word ‘Denisovan’ is sometimes mentioned in media in reference to,fossils of a kind of dinosaurs,an early human species,a cave system found in North-East India,a geological period in the history of Indian subcontinent,b,easy
+Which of the statements given above is/are correct?",1 and 2 only,3 and 4,"1, 2 and 3",4 only,b
+Science And Tech,The word ‘Denisovan’ is sometimes mentioned in media in reference to,fossils of a kind of dinosaurs,an early human species,a cave system found in North-East India,a geological period in the history of Indian subcontinent,b
 Science And Tech,"With reference to the recent developments in science, which one of the following
 statements is not correct?","Functional chromosomes can be created by joining segments of DNA taken from
 cells of di�erent species.",Pieces of artificial functional DNA can be created in laboratories.,"A piece of DNA taken out from an animal cell can be made to replicate outside a
 living cell in a laboratory.","Cells taken out from plasma and animals can be made to undergo cell division in
-laboratory petri dishes.",a,easy
+laboratory petri dishes.",a
 Science And Tech,"Consider the following statements:
 A digital signature is
 1. an electronic record that identifies the certifying authority issuing it
@@ -270,45 +270,45 @@ A digital signature is
 server on Internet
 3. an electronic method of signing an electronic document and ensuring that the
 original content is unchanged
-Which of the statements given above is/are correct?",1 only,2 and 3 only,3 only,"1, 2 and 3",c,hard
+Which of the statements given above is/are correct?",1 only,2 and 3 only,3 only,"1, 2 and 3",c
 Science And Tech,"In the context of wearable technology, which of the following tasks is/are
 accomplished by wearable devices?
 1. Location identification of a person
 2. Sleep monitoring of a person
 3. Assisting the hearing impaired person
-Select the correct answer using the code given below:",1 only,2 and 3 only,3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,3 only,"1, 2 and 3",d
 Science And Tech,"RNA interference (RNAi)' technology has gained popularity in the last few years.
 Why?
 1. It is used in developing gene silencing therapies.
 2. It can be used in developing therapies for the treatment of cancer.
 3. It can be used to develop hormone replacement therapies.
 4. It can be used to produce crop plants that are resistant to viral pathogens.
-Select the correct answer using the code given below.","1, 2 and 4",2 and 3,1 and 3,1 and 4 only,a,hard
+Select the correct answer using the code given below.","1, 2 and 4",2 and 3,1 and 3,1 and 4 only,a
 Science And Tech,"Recently, Scientists observed the merger of giant blackholes’ billions of
-light-years away from the Earth. What is the significance of this observation?",'Higgs boson particles' were detected.,'Gravitational waves' were detected.,Possibility of inter-galactic space travel through 'wormhole' was confirmed.,It enabled the scientists to understand 'singularity'.,b,easy
+light-years away from the Earth. What is the significance of this observation?",'Higgs boson particles' were detected.,'Gravitational waves' were detected.,Possibility of inter-galactic space travel through 'wormhole' was confirmed.,It enabled the scientists to understand 'singularity'.,b
 Science And Tech,"Which of the following are the reasons for the occurrence of multi-drug
 resistance in microbial pathogens in India?
 1. Genetic predisposition of some people
 2. Taking incorrect doses of antibiotics to cure diseases
 3. Using antibiotics in livestock farming
 4. Multiple chronic diseases in some people
-Select the correct answer using the code given below.",1 and 2,2 and 3 only,"1, 3 and 4","2, 3 and 4",b,hard
-Science And Tech,What is Cas9 protein that is often mentioned in news?,A molecular scissors used in targeted gene editing,A biosensor used in the accurate detection of pathogens in patients,A gene that makes plants pest-resistant,A herbicidal substance synthesized in genetically modified crops,a,easy
+Select the correct answer using the code given below.",1 and 2,2 and 3 only,"1, 3 and 4","2, 3 and 4",b
+Science And Tech,What is Cas9 protein that is often mentioned in news?,A molecular scissors used in targeted gene editing,A biosensor used in the accurate detection of pathogens in patients,A gene that makes plants pest-resistant,A herbicidal substance synthesized in genetically modified crops,a
 Science And Tech,Which one of the following statements is not correct?,Hepatitis B virus is transmitted much like HIV.,"Hepatitis B. unlike Hepatitis C, does not have a vaccine.","Globally, the number of people infected with Hepatitis B and C viruses arc several
 times more than those infected with HIV.","Some of those infected with Hepatitis B and C viruses do not show the symptoms
-for many years.",b,easy
+for many years.",b
 Science And Tech,"The identity platform 'Aadhaar' provides open """"Application Programming
 Interfaces (APIs)"""". What does it imply?
 1. It can be integrated into any electronic device.
 2. Online authentication using iris is possible.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,medium
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
 Science And Tech,"In which of the following areas can GPS technology be used?
 1. Mobile phone operations
 2. Banking operations
 3. Controlling the power grids
-Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"The terms 'WannaCry, Petya and EternalBlue' sometimes mentioned in the news
-recently are related to",Exoplanets,Cryptocurrency,Cyber attacks,Mini satellites,c,easy
+recently are related to",Exoplanets,Cryptocurrency,Cyber attacks,Mini satellites,c
 Science And Tech,"With reference to the Indian Regional Navigation Satellite System (IRNSS),
 consider the following statements:
 1. IRNSS has three satellites in geostationary and four satellites in geosynchronous
@@ -316,19 +316,19 @@ orbits.
 2. IRNSS covers entire India and about 5500 sq. km beyond its borders.
 3. India will have its own satellite navigation system with full global coverage by the
 middle of 2019.
-Which of the statements given above is/are correct?",1 only,1 and 2 only,2 and 3 only,None,a,hard
+Which of the statements given above is/are correct?",1 only,1 and 2 only,2 and 3 only,None,a
 Science And Tech,"Consider the following statements:
 1. Light is a�ected by gravity.
 2. The Universe is constantly expanding.
 3. Matter warps its surrounding space-time.
 Which of the above is/are the prediction/predictions of Albert Einstein's General
-Theory of Relativity, often discussed in media?",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d,hard
+Theory of Relativity, often discussed in media?",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Consider the following pairs:
 Sl. No. Terms sometimes seen in news Context/Topic
 1. Belle II experiment : Artificial Intelligence
 2 Blockchain technology : Digital/Cryptocurrency
 3 CRISPR - Cas9 : Particle Physics
-Which of the pairs given above is/are correctly matched?",1 and 3 only,2 only,2 and 3 only,"1, 2 and 3",b,medium
+Which of the pairs given above is/are correctly matched?",1 and 3 only,2 only,2 and 3 only,"1, 2 and 3",b
 Science And Tech,"When the alarm of your smartphone rings in the morning, you wake up and tap it
 to stop the alarm which causes your geyser to be switched on automatically. The
 smart mirror in your bathroom shows the day's weather and also indicates the level
@@ -339,14 +339,14 @@ lock the door, all lights, fans, geysers and AC machines get switched o�
 automatically. On your way to o�ce, your car warns you about tra�c congestion
 ahead and suggests an alternative route, and if you are late for a meeting, it sends a
 message to your o�ce accordingly. In the context of emerging communication
-technologies, which one of the following terms best applies to the above scenario?",Border Gateway Protocol,Internet of Things,Internet Protocol,Virtual Private Network,b,medium
+technologies, which one of the following terms best applies to the above scenario?",Border Gateway Protocol,Internet of Things,Internet Protocol,Virtual Private Network,b
 Science And Tech,"""3D printing""has applications in which of the following?
 1. Preparation of confectionery items
 2. Manufacture of bionic ears
 3. Automotive industry
 4. Reconstructive surgeries
 5. Data processing technologies
-Select the correct answer using the code given below:","1, 3 and 4 only","2, 3 and 5 only",1 and 4 only,"1, 2, 3, 4 and 5",d,hard
+Select the correct answer using the code given below:","1, 3 and 4 only","2, 3 and 5 only",1 and 4 only,"1, 2, 3, 4 and 5",d
 Science And Tech,"""With reference to India's satellite launch vehicles, consider the following
 statements:
 1. PSLVs launch the satellite useful for Earth resources monitoring whereas GSLVs are
@@ -355,48 +355,48 @@ designed mainly to launch communication satellites.
 position in the sky, as viewed from a particular location on Earth.
 3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid
 rocket motors; and the second and fourth stages using liquid rocket engines.
-Which of the statements given above is/are correct?",1 only,2 and 3,1 and 2,3 only,a,hard
+Which of the statements given above is/are correct?",1 only,2 and 3,1 and 2,3 only,a
 Science And Tech,"Consider the following:
 1. Birds
 2. Dust blowing
 3. Rain
 4. Wind blowing
-Which of the above spread plant diseases?",1 and 3 only,3 and 4 only,"1, 2 and 4 only","1, 2, 3 and 4",d,hard
+Which of the above spread plant diseases?",1 and 3 only,3 and 4 only,"1, 2 and 4 only","1, 2, 3 and 4",d
 Science And Tech,"Consider the following pairs:
 Sl. No. Commonly used/consumed materials Unwanted or controversial
 chemicals likely to be found in them
 1. Lipstick : Lead
 2. Soft drinks : Brominated vegetable oils
 3. Chinese fast food : Monosodium glutamate
-Which of the pairs given above is/are correctly matched?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the pairs given above is/are correctly matched?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Organic Light Emitting Diodes (OLEDs) are used to create digital display in many
 devices. What are the advantages of OLED displays over Liquid Crystal displays?
 1. OLED displays can be fabricated on flexible plastic substrates.
 2. Roll-up displays embedded in clothing can be made using OLEDs.
 3. Transparent displays are possible using OLEDs.
-Select the correct answer using the code given below:",1 and 3 only,2 only,"1, 2 and 3",None of the above statements is correct,c,hard
-Science And Tech,What is the application of Somatic Cell Nuclear Transfer Technology?,Production of biolarvicides,Manufacture of biodegradable plastics,Reproductive cloning of animals,Production of organisms free of diseases,c,easy
+Select the correct answer using the code given below:",1 and 3 only,2 only,"1, 2 and 3",None of the above statements is correct,c
+Science And Tech,What is the application of Somatic Cell Nuclear Transfer Technology?,Production of biolarvicides,Manufacture of biodegradable plastics,Reproductive cloning of animals,Production of organisms free of diseases,c
 Science And Tech,"In India, it is legally mandatory for which of the following to report on cyber
 security incidents?
 1. Service providers
 2. Data centers
 3. Body corporate
-Select the correct answer using the code given below:",1 only,1 and 2 only,3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below:",1 only,1 and 2 only,3 only,"1, 2 and 3",d
 Science And Tech,What is the purpose of the ‘evolved Laser Interferometer Space Antenna (eLIS,"’
-project?",To detect neutrinos,To detect gravitational waves,To detect the e�ectiveness of missile defense system,b,easy
+project?",To detect neutrinos,To detect gravitational waves,To detect the e�ectiveness of missile defense system,b
 Science And Tech,"Consider the following statements:
 1. The Nuclear Security Summits are periodically held under the aegis of the United
 Nations.
 2. The International Panel on Fissile Materials is an organ of the International Atomic
 Energy Agency.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,medium
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
 Science And Tech,"Consider the following statements:
 1. In tropical regions, Zika virus disease is transmitted by the same mosquito that
 transmits dengue.
 2. Sexual transmission of Zika virus disease is possible.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,medium
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
 Science And Tech,"The terms ‘Event Horizon’, ‘Singularity’, ‘String Theory’ and ‘Standard Model’ are
-sometimes seen in the news in the context of:",Observation and understanding of the Universe,Study of the solar and the lunar eclipses,Placing satellites in the orbit of the Earth,Origin and evolution of living organisms on the earth,a,easy
+sometimes seen in the news in the context of:",Observation and understanding of the Universe,Study of the solar and the lunar eclipses,Placing satellites in the orbit of the Earth,Origin and evolution of living organisms on the earth,a
 Science And Tech,"With reference to agriculture in India, how can the technique of ‘genome
 sequencing’, often seen in the news, be used in the immediate future?
 1. Genome sequencing can be used to identify genetic markers for disease resistance
@@ -404,7 +404,7 @@ and drought tolerance in various crop plants.
 2. This technique helps in reducing the time required to develop new varieties of crop
 plants.
 3. It can be used to decipher the host pathogen relationships in crops.
-Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"Which of the following statements is/are correct regarding Smart India
 Hackathon 2017?
 1. It is a centrally sponsored scheme for developing every city of our country into
@@ -413,7 +413,7 @@ Smart Cities in a decade.
 problems faced by our country.
 3. It is a programme aimed at making all the financial transactions in our country
 completely digital in a decade.
-Select the correct answer using the code given below:",1 and 3 only,2 only,3 only,2 and 3 only,b,hard
+Select the correct answer using the code given below:",1 and 3 only,2 only,3 only,2 and 3 only,b
 Science And Tech,"In the context of solving pollution problems, what is/are the
 advantage/advantages of bioremediation technique?
 1. It is a technique for cleaning up pollution by enhancing the same biodegradation
@@ -422,13 +422,13 @@ process that occurs in nature.
 completely treated by bioremediation using microorganisms.
 3. Genetic engineering can be used to create microorganisms specifically designed
 for bioremediation.
-Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c
 Science And Tech,"Due to some reasons, if there is a huge fall in the population of species of
 butterflies, what could be its likely consequence/consequences?
 1. Pollination of some plants could be adversely a�ected.
 2. There could be a drastic increase in the fungal infections of some cultivated plants.
 3. It could lead to a fall in the population of some species of wasps, spiders and birds.
-Select the correct using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c,hard
+Select the correct using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c
 Science And Tech,"It is possible to produce algae based biofuels, but what is/are the likely
 limitation(s) of developing countries in promoting this industry?
 1. Production of algae based biofuels is possible in seas only and not on continents.
@@ -436,14 +436,14 @@ limitation(s) of developing countries in promoting this industry?
 level of expertise/ technology until the construction is complete.
 3. Economically viable production necessitates the setting up of large scale facilities
 which may raise ecological and social concerns.
-Select the correct answer using the code given below:",1 and 2 only,2 and 3 only,3 only,"1, 2 and 3",b,hard
+Select the correct answer using the code given below:",1 and 2 only,2 and 3 only,3 only,"1, 2 and 3",b
 Science And Tech,"With reference to ‘LiFi’, recently in the news, which of the following statements
 is/are correct?
 1. It uses light as the medium for high-speed data transmission.
 2. It is a wireless technology and is several times faster than ‘WiFi’.
-Select the correct answer using the code given below:",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,medium
+Select the correct answer using the code given below:",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
 Science And Tech,"In the context of the developments in Bioinformatics, the term ‘transcriptome’,
-sometimes seen in the news, refers to",a range of enzymes used in genome editing,the full range of mRNA molecules expressed by an organism,the description of the mechanism of gene expression,a mechanism of genetic mutations taking place in cells,b,easy
+sometimes seen in the news, refers to",a range of enzymes used in genome editing,the full range of mRNA molecules expressed by an organism,the description of the mechanism of gene expression,a mechanism of genetic mutations taking place in cells,b
 Science And Tech,"With reference to prepackaged items in India, it is mandatory to the
 manufacturer to put which of the following information on the main label, as per the
 Food Safety and Standards (Packaging and Labelling) Regulations, 2011?
@@ -452,40 +452,40 @@ Food Safety and Standards (Packaging and Labelling) Regulations, 2011?
 3. Recommendation, if any, made by the medical profession about the possibility of
 any allergic reactions
 4. Vegetarian/non vegetarian
-Select the correct answer using the code given below:","1, 2 and 3 only","2, 3 and 4 only","1, 2 and 4 only",1 and 4 only,c,hard
-Science And Tech,"‘Project Loon’, sometimes seen in the news, is related to",waste management technology,wireless communication technology,solar power production technology,water conservation technology,b,easy
+Select the correct answer using the code given below:","1, 2 and 3 only","2, 3 and 4 only","1, 2 and 4 only",1 and 4 only,c
+Science And Tech,"‘Project Loon’, sometimes seen in the news, is related to",waste management technology,wireless communication technology,solar power production technology,water conservation technology,b
 Science And Tech,"Which one of the following is the best description of ‘INS Astradharini’, that was in
-the news recently?",Amphibious warfare ship,Nuclear-powered submarine,Torpedo launch and recovery vessel,Nuclear-powered aircraft carrier,c,easy
-Science And Tech,"What is ‘Greased Lightning10 (GL-10)’, recently in the news?",Electric plane tested by NASA,Solar-powered two seater aircraft designed by Japan,Space observatory launched by China,Reusable rocket designed by ISRO,a,easy
+the news recently?",Amphibious warfare ship,Nuclear-powered submarine,Torpedo launch and recovery vessel,Nuclear-powered aircraft carrier,c
+Science And Tech,"What is ‘Greased Lightning10 (GL-10)’, recently in the news?",Electric plane tested by NASA,Solar-powered two seater aircraft designed by Japan,Space observatory launched by China,Reusable rocket designed by ISRO,a
 Science And Tech,"Which of the following statements is/are correct?
 Viruses can infect
 1. bacteria
 2. fungi
 3. plants
-Select the correct answer using the code given below.",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below.",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,"India is an important member of the 'International Thermonuclear Experimental
-Reactor'. If this experiment succeeds, what is the immediate advantage for India?",It can use thorium in place of uranium for power generation,It attains a global role in satellite-navigation,It can drastically improve the e�ciency of its fission reactors in power generation,It can build fusion reactors for power generation,b,easy
+Reactor'. If this experiment succeeds, what is the immediate advantage for India?",It can use thorium in place of uranium for power generation,It attains a global role in satellite-navigation,It can drastically improve the e�ciency of its fission reactors in power generation,It can build fusion reactors for power generation,b
 Science And Tech,"Regarding 'DigiLocker', sometimes seen in the news, which of the following
 statements is/are correct?
 1. It is a digital locker system o�ered by the Government under Digital India
 Programme.
 2. It allows you to access your e-documents irrespective of your physical location.
-Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,medium
+Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
 Science And Tech,"With reference to 'Astrosat',' the astronomical observatory launched by India,
 which of the following statements is/are correct?
 1. Other than USA and Russia, India is the only country to have launched a similar
 observatory into space.
 2. Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of
 the Earth.
-Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,hard
+Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
 Science And Tech,"Consider the following statements:
 The Mangalyaan launched by ISRO
 1. is also called the Mars Orbiter Mission
 2. made India the second country to have a spacecraft orbit the Mars after USA
 3. made India the only country to be successful in making its spacecraft orbit the
 Mars in its very first attempt
-Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c,hard
-Science And Tech,A recent movie titled The Man Who Knew Infinity is based on the biography of,S. Ramanujan,S. Chandrasekhar,S. N. Bose,C. V. Raman,a,easy
+Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",c
+Science And Tech,A recent movie titled The Man Who Knew Infinity is based on the biography of,S. Ramanujan,S. Chandrasekhar,S. N. Bose,C. V. Raman,a
 Science And Tech,"Which of the following statements is/are correct regarding National Innovation
 Foundation-India (NIF)?
 1. NIF is an autonomous body of the Department of Science and Technology under
@@ -493,14 +493,14 @@ the Central Government.
 2. NIF is an initiative to strengthen the highly advanced scientific research in India's
 premier scientific institutions in collaboration with highly advanced foreign scientific
 institutions.
-Select the correct answer using the codes given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,a,hard
+Select the correct answer using the codes given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,a
 Science And Tech,"In the context of modern scientific research, consider the following statements
 about ‘IceCube’, a particle detector located at South Pole, which was recently in the
 news:
 1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice.
 2. It is a powerful telescope to search for dark matter.
 3. It is buried deep in the ice.
-Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d,hard
+Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",d
 Science And Tech,With reference to ‘Near Field Communication (NF,"Technology’, which of the
 following statements is/are correct?
 1. It is a contactless communication technology that uses electromagnetic radio
@@ -508,8 +508,8 @@ fields.
 2. NFC is designed for use by devices which can be at a distance of even a metre
 from each other.
 3. NFC can use encryption when sending sensitive information.
-Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,c,easy
-Science And Tech,The term ‘Goldilocks Zone’ is often seen in the news in the context of,the limits of habitable zone above the surface of the Earth,region inside the Earth where shale gas is available,search for the Earth-like planets in outer space,search for meteorites containing precious metals,c,easy
+Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,c
+Science And Tech,The term ‘Goldilocks Zone’ is often seen in the news in the context of,the limits of habitable zone above the surface of the Earth,region inside the Earth where shale gas is available,search for the Earth-like planets in outer space,search for meteorites containing precious metals,c
 Science And Tech,"In which of the following activities are Indian Remote Sensing (IRS) satellites
 used?
 1. Assessment of crop productivity
@@ -517,10 +517,10 @@ used?
 3. Mineral exploration
 4. Telecommunications
 5. Tra�c studies
-Select the correct answer using the code given below:","1, 2 and 3 only",4 and 5 only,1 and 2 only,"1, 2, 3, 4 and 5",a,hard
-Science And Tech,"The term ‘IndARC’, sometimes seen in the news, is the name of",an indigenously developed radar system inducted into Indian Defence,India’s satellite to provide services to the countries of Indian Ocean Rim,a scientific establishment set up by India in Antarctic region,India’s underwater observatory to scientifically study the Arctic region,d,easy
+Select the correct answer using the code given below:","1, 2 and 3 only",4 and 5 only,1 and 2 only,"1, 2, 3, 4 and 5",a
+Science And Tech,"The term ‘IndARC’, sometimes seen in the news, is the name of",an indigenously developed radar system inducted into Indian Defence,India’s satellite to provide services to the countries of Indian Ocean Rim,a scientific establishment set up by India in Antarctic region,India’s underwater observatory to scientifically study the Arctic region,d
 Science And Tech,"H1N1 virus is sometimes mentioned in the news with reference to which one of the
-following diseases?",AIDS,Bird flu,Dengue,Swine flu,d,easy
+following diseases?",AIDS,Bird flu,Dengue,Swine flu,d
 Science And Tech,"With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to
 generate electricity, consider the following statements:
 1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as
@@ -528,40 +528,40 @@ by-products.
 2. Fuel cells can be used for powering buildings and not for small devices like laptop
 computers.
 3. Fuel cells produce electricity in the form of Alternating Current (A",".
-Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,a,hard
+Which of the statements given above is/are correct?",1 only,2 and 3 only,1 and 3 only,a
 Science And Tech,"Consider the following diseases:
 1. Diphtheria
 2. Chickenpox
 3. Smallpox
-Which of the above diseases has/have been eradicated in India?",1 and 2 only,3 only,"1, 2 and 3",None,b,hard
+Which of the above diseases has/have been eradicated in India?",1 and 2 only,3 only,"1, 2 and 3",None,b
 Science And Tech,"Lichens, which are capable of initiating ecological succession even on a bare
-rock, are actually a symbiotic association of",algae and bacteria,algae and fungi,bacteria and fungi,fungi and mosses,b,easy
+rock, are actually a symbiotic association of",algae and bacteria,algae and fungi,bacteria and fungi,fungi and mosses,b
 Science And Tech,"With reference to Agni-IV Missile, which of the following statements is/are
 correct?
 1. It is a surface-to-surface missile.
 2. It is fuelled by liquid propellant only.
 3. It can deliver one-tonne nuclear warheads about 7500 km away.
-Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",a,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",a
 Science And Tech,"Which of the following pairs is/are correctly matched?
 No. Spacecraft Purpose
 1. Cassini-Huygens : Orbiting Venus and transmitting data to the Earth
 2. Messenger : Mapping and investigating
 3. Voyager 1 and 2 : Exploring the outer solar system
-Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",b,hard
+Select the correct answer using the code given below:",1 only,2 and 3 only,1 and 3 only,"1, 2 and 3",b
 Science And Tech,"Which of the following is/are the example/examples of chemical change?
 1. Crystallization of sodium chloride
 2. Melting of ice
 3. Souring of milk
-Select the correct answer using the code given below:",1 and 2 only,3 only,"1, 2 and 3",None,b,hard
+Select the correct answer using the code given below:",1 and 2 only,3 only,"1, 2 and 3",None,b
 Science And Tech,"Consider the following pairs:
 No. Vitamin Deficiency Disease
 1. Vitamin C : Scurvy
 2. Vitamin D : Rickets
 3. Vitamin E : Night blindness
-Which of the pairs given above is/are correctly matched?",1 and 2 only,3 only,"1, 2 and 3",None,a,hard
+Which of the pairs given above is/are correctly matched?",1 and 2 only,3 only,"1, 2 and 3",None,a
 Science And Tech,"There is some concern regarding the nanoparticles of some chemical elements
 that are used by the industry in the manufacture of various products. Why?
 1. They can accumulate in the environment and contaminate water and soil.
 2. They can enter the food chains.
 3. They can trigger the production of free radicals.
-Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d,hard
+Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",d

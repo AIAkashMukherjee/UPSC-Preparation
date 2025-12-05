@@ -3,7 +3,7 @@ import pdfplumber
 import pandas as pd
 
 
-# ------------ STEP 1: EXTRACT TEXT ------------
+
 
 def extract_text(pdf_path: str) -> str:
     full_text = ""
@@ -15,7 +15,7 @@ def extract_text(pdf_path: str) -> str:
     return full_text
 
 
-# ------------ STEP 2: PARSE MCQs (QUESTION, OPTIONS, ANSWER, YEAR) ------------
+
 
 def parse_mcqs_with_year(text: str, topic: str) -> pd.DataFrame:
     # 1) Precompute year positions (2014–2023 in this PDF)
@@ -108,68 +108,7 @@ def parse_mcqs_with_year(text: str, topic: str) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-# ------------ STEP 3: DIFFICULTY CLASSIFICATION ------------
 
-def classify_difficulty(q_text: str) -> str:
-    q = q_text.strip()
-    # Count numbered statements (1., 2., 3.)
-    numbered = len(re.findall(r"\n?\s*\d+\.\s", q))
-
-    # Detect typical phrases
-    has_phrase = bool(
-        re.search(
-            r"which of the following.*(correct|incorrect|are correct|is/are)",
-            q,
-            re.IGNORECASE,
-        )
-        or re.search(r"how many of the above", q, re.IGNORECASE)
-        or re.search(r"consider the following", q, re.IGNORECASE)
-    )
-
-    length = len(q.split())
-
-    # Simple heuristic
-    if numbered >= 3 or (has_phrase and length > 45):
-        return "hard"
-    if numbered >= 1 or has_phrase or length > 30:
-        return "medium"
-    return "easy"
-
-
-# ------------ STEP 4: RUN PIPELINE AND SAVE CSV ------------
-
-# if __name__ == "__main__":
-#     pdf_path = "data/raw/pdf/Medival_history.pdf"
-#     csv_path = "data/raw/csv/upsc_medieval_history.csv"
-
-#     # 1) Extract raw text from PDF
-#     text = extract_text(pdf_path)
-
-#     # 2) Parse questions, options, answers, year
-#     df = parse_mcqs_with_year(text)
-
-#     # 3) Add difficulty
-#     df["difficulty"] = df["question"].apply(classify_difficulty)
-
-#     # 4) Reorder columns
-#     df = df[
-#         [
-#             "topic",
-#             "question",
-#             "option_a",
-#             "option_b",
-#             "option_c",
-#             "option_d",
-#             "correct_answer",
-#             "difficulty",
-#         ]
-#     ]
-
-#     # 5) Save
-#     df.to_csv(csv_path, index=False, encoding="utf-8-sig")
-
-#     print("Saved:", csv_path)
-#     print("Rows extracted:", len(df))
 
 
 import os
@@ -192,19 +131,13 @@ if __name__ == "__main__":
 
         print(f"Processing: {pdf_path}")
 
-        # 1) Extract raw text
         text = extract_text(pdf_path)
 
         filename_no_ext = os.path.splitext(file)[0]
         topic = filename_no_ext.replace("_", " ").title()
 
-        # 2) Parse Q/A
         df = parse_mcqs_with_year(text, topic=topic)
 
-        # 3) Difficulty
-        df["difficulty"] = df["question"].apply(classify_difficulty)
-
-        # 4) Column order
         df = df[
             [
                 "topic",
@@ -214,7 +147,6 @@ if __name__ == "__main__":
                 "option_c",
                 "option_d",
                 "correct_answer",
-                "difficulty",
             ]
         ]
 

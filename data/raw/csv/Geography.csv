@@ -1,4 +1,4 @@
-﻿topic,question,option_a,option_b,option_c,option_d,correct_answer,difficulty
+﻿topic,question,option_a,option_b,option_c,option_d,correct_answer
 Geography,"Consider the following statements:
 Statement-I: India, despite having uranium deposits, depends on coal for most its
 electricity production.
@@ -12,7 +12,7 @@ Q2. Consider the following statements:
 1. Jhelum River passes through Wular Lake.
 2. Krishna River directly feeds Kolleru Lake.
 3. Meandering of the Gandak River formed Kanwar Lake.
-How many of the statements given above are correct?",a,hard
+How many of the statements given above are correct?",a
 Geography,"Consider the following countries:
 1. Azerbaijan
 2. Kyrgyzstan
@@ -26,8 +26,8 @@ Q17. With reference to India, consider the following statements?
 2. Monazite contains thorium.
 3. Monazite occurs naturally in the entire Indian coastal sands in India.
 4. In India, Government bodies only can process or export monazite.
-Which of the statements given above are correct?",d,hard
-Geography,"With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",glaciers,mangrove areas,Ramsar sites,saline lakes,d,easy
+Which of the statements given above are correct?",d
+Geography,"With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",glaciers,mangrove areas,Ramsar sites,saline lakes,d
 Geography,"Consider the following rivers:
 1. Brahmani
 2. Nagavali
@@ -41,7 +41,7 @@ mining in international waters.
 2. India has received licences for seabed mineral exploration in international
 waters.
 3. ‘Rare earth minerals’ are present on the seafloor in international waters.
-Which of the statements given above are correct?",c,hard
+Which of the statements given above are correct?",c
 Geography,"Leaf litter decomposes faster than in any other biome and as a result the soil
 surface is often almost bare. Apart from trees, the vegetation is largely composed of
 plant forms that reach up into the canopy vicariously, by climbing the trees or
@@ -55,7 +55,7 @@ Q1. What are the advantages of fertigation in agriculture?
 possible.
 3. Increased availability of nutrients to plants is possible.
 4. Reduction in the leaching of chemical nutrients is possible.
-Select the correct answer using the code given below:",c,medium
+Select the correct answer using the code given below:",c
 Geography,"What is/are the advantages/advantages of zero tillage in agriculture?
 1. Sowing wheat without burning the residue of previous crop.
 2. Without the need for a nursery of rice saplings, direct planting of paddy
@@ -68,7 +68,7 @@ Q8. With reference to solar water pumps, consider the following statements:
 submersible pumps.
 2. Solar power can be used for running centrifugal pumps and not the
 ones with piston.
-Which of the statements given above is/are correct?",b,hard
+Which of the statements given above is/are correct?",b
 Geography,"Among the following, which one is the largest exporter of rice in the world in the
 last five years?",China,India,Myanmar,"Vietnam
 Correct answer: option b
@@ -79,7 +79,7 @@ Glacier River
 3. Milam Mandakini
 4. Siachen Nubra
 5. Zemu Manas
-Which of the pairs correctly matched?",a,easy
+Which of the pairs correctly matched?",a
 Geography,"With reference to the management of minor minerals in India, consider the
 following statements:
 1. Sand is a ‘minor mineral’ according to the prevailing law in the country.
@@ -91,14 +91,14 @@ minor minerals.
 Which of the statements given above is/are correct?",1 and 3 only,2 and 3 only,3 only,"1, 2 and 3
 Correct answer: option a
 Q10. Consider the following statements:
-1. Petroleum and Natural Gas Regulatory Board (PNGR",c,hard
+1. Petroleum and Natural Gas Regulatory Board (PNGR",c
 Geography,"Consider the following statements:
 1. In India, the Himalayas are spread over five states only.
 2. Western Ghats are spread over five states only.
 3. Pulicat Lake is spread over two States only.
 Which of the statements given above is/are correct?",1 and 2 only,3 only,2 and 3 only,"1 and 3 only
 Correct answer: option b
-Q3. With reference to ‘Indian Ocean Dipole (IO",d,hard
+Q3. With reference to ‘Indian Ocean Dipole (IO",d
 Geography,"In which of the following regions of India are shale gas resources found?
 1. Cambay Basin
 2. Cauvery Basin
@@ -110,13 +110,13 @@ irrigation?
 1. Reduction in weed
 2. Reduction in soil salinity
 3. Reduction in soil erosion
-Select the correct answer using the code given below.",d,hard
+Select the correct answer using the code given below.",d
 Geography,"What can be the impact of excessive/inappropriate use of nitrogenous fertilizers
 in agriculture?
 1. Proliferation of nitrogen-fixing microorganisms in soil can occur.
 2. Increase in the acidity of soil can take place.
 3. Leaching of nitrate to the groundwater can occur.
-Select the correct answer using the codes given below.",1 and 3 only,2 only,2 and 3 only,"1, 2 and 3",c,hard
+Select the correct answer using the codes given below.",1 and 3 only,2 only,2 and 3 only,"1, 2 and 3",c
 Geography,What explains the eastward flow of the equatorial counter-current ?,The Earth's rotation on its axis,Convergence of the two equatorial currents,Di�erence in salinity of water,"Occurrence of the belt of calm near the equator
 Correct answer: option b
 Q5. Consider the following pairs:
@@ -124,17 +124,17 @@ S.No Place of Pilgrimage Location
 1. Srisailam Nallamala hills
 2. Omkareshwar Satmala hills
 3. Pushkar Mahadev hills
-Which of the above pairs is/are correctly matched ?",b,easy
+Which of the above pairs is/are correctly matched ?",b
 Geography,"Which one of the following best describes the main objective of 'Seed Village
 Concept'?","Encouraging the farmers to use their own farm seeds and discouraging them to
 buy the seeds from others","Involving the farmers for training in quality seed production and thereby to make
 available quality seeds to others at appropriate time and a�ordable cost",Earmarking some villages exclusively for the production of certified seeds,"Identifying the entrepreneurs in villages and providing them technology and
-finance to set up seed companies",b,easy
+finance to set up seed companies",b
 Geography,"With reference to the Indian Renewable Energy Development Agency Limited
 IRED",", which of the following statements is/are correct?
 1. It is a Public Limited Government Company.
 2. It is a Non-Banking Financial Company.
-Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,c,easy
+Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,c
 Geography,"What are the significance of a practical approach to sugarcane production
 known as the 'Sustainable Sugarcane Initiative'?
 1. Seed cost is very low in this compared to the conventional method of cultivation.
@@ -145,4 +145,4 @@ of cultivation.
 Select the correct answer using the code given below:",1 and 3 only,"1, 2 and 4 only","2, 3 and 4 only","1, 2, 3 and 4
 Correct answer: option b
 Q2. Which one of the following pairs of islands is separated from each other by the
-'Ten Degree Channel'?",c,hard
+'Ten Degree Channel'?",c

@@ -1,43 +1,43 @@
-﻿topic,question,option_a,option_b,option_c,option_d,correct_answer,difficulty
+﻿topic,question,option_a,option_b,option_c,option_d,correct_answer
 Medival History,"Consider the following dynasties:
 1. Hoysala
 2. Gahadavala
 3. Kakatiya
 4. Yadava
-How many of the above dynasties established their kingdoms in early eighth century AD?",Only one,Only two,Only three,None,d,hard
+How many of the above dynasties established their kingdoms in early eighth century AD?",Only one,Only two,Only three,None,d
 Medival History,"Who among the following rulers of Vijayanagara Empire constructed a large dam
 across Tungabhadra River and canalcum- aqueduct several a kilometres long from the
-river to the capital city?",Devaraya I,Mallikarjuna,Vira Vijaya,Virupaksha,a,easy
+river to the capital city?",Devaraya I,Mallikarjuna,Vira Vijaya,Virupaksha,a
 Medival History,"Consider the following pairs:
 King Dynasty
 1. Nannuka — Chandela
 2. Jayashakti — Paramara
 3. Nagabhata II — Gurjara-Pratihara
 4. Bhoja — Rashtrakuta
-How many pairs given above are correctly matched?",Only one pair,Only two pairs,Only three pairs,All four pairs,b,hard
+How many pairs given above are correctly matched?",Only one pair,Only two pairs,Only three pairs,All four pairs,b
 Medival History,"“Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign
-of:",Akbar,Humayun,Shahjahan,Aurangzeb,a,easy
+of:",Akbar,Humayun,Shahjahan,Aurangzeb,a
 Medival History,"The world's second tallest statue in sitting pose of Ramanuja was inaugurated by the
 Prime Minister of India at Hyderabad recently. Which one of the following statements
-correctly represents the teachings of Ramanuja?",The best means of salvation was devotion.,"Vedas are eternal, self-existent and wholly authoritative.",Logical arguments were essential means for the highest bliss,Salvation was to be obtained through meditation.,a,medium
-Medival History,"In medieval India, the term """"Fanam"""" referred to:",Clothing,Coins,Ornaments,Weapons,b,easy
+correctly represents the teachings of Ramanuja?",The best means of salvation was devotion.,"Vedas are eternal, self-existent and wholly authoritative.",Logical arguments were essential means for the highest bliss,Salvation was to be obtained through meditation.,a
+Medival History,"In medieval India, the term """"Fanam"""" referred to:",Clothing,Coins,Ornaments,Weapons,b
 Medival History,"With reference to Indian history, consider the following statements:
 1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.
 2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and
 besieged the city.
 3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to
 Mongols.
-Which of the statements given above is/are correct?",1 and 2,2 only,1 and 3,3 only,b,hard
-Medival History,"With reference to Indian history, who of the following were known as """"Kulah-Daran""""?",Arab merchants,Qalandars,Persian calligraphists,Sayyids,d,easy
+Which of the statements given above is/are correct?",1 and 2,2 only,1 and 3,3 only,b
+Medival History,"With reference to Indian history, who of the following were known as """"Kulah-Daran""""?",Arab merchants,Qalandars,Persian calligraphists,Sayyids,d
 Medival History,"With reference to medieval India, which one of the following is the correct sequence in
-ascending order in terms of size?",Paragana – Sarkar – Suba,Sarkar – Paragana – Suba,Suba – Sarkar – Paragana,Paragana – Suba – Sarkar,a,easy
+ascending order in terms of size?",Paragana – Sarkar – Suba,Sarkar – Paragana – Suba,Suba – Sarkar – Paragana,Paragana – Suba – Sarkar,a
 Medival History,"According to Portuguese writer Nuniz, the women in the Vijayanagara Empire were
 experts in which of the following areas?
 1. Wrestling
 2. Astrology
 3. Accounting
 4. Soothsaying
-Select the correct answer using the code given below:","1, 2 and 3 only","1, 3 and 4 only",2 and 4 only,"1, 2, 3 and 4",d,hard
+Select the correct answer using the code given below:","1, 2 and 3 only","1, 3 and 4 only",2 and 4 only,"1, 2, 3 and 4",d
 Medival History,"Consider the following statements:
 1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit
 of the fugitive Khwarezm prince.
@@ -45,14 +45,14 @@ of the fugitive Khwarezm prince.
 crossed the Indus.
 3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da
 Gama reached the coast of Kerala.
-Which of the statements given above is/are correct?",1 only,1 and 2,3 only,2 and 3,a,hard
+Which of the statements given above is/are correct?",1 only,1 and 2,3 only,2 and 3,a
 Medival History,"Consider the following events in the history of India:
 1. Rise of Pratiharas under King Bhoja
 2. Establishment of Pallava power under Mahendravarman-I
 3. Establishment of Chola power by Parantaka-I
 4. Pala dynasty founded by Gopala
 What is the correct chronological order of the above events, starting from the earliest
-time?",2 – 1 – 4 - 3,3 – 1 – 4 - 2,2 – 4 – 1 - 3,3 – 4 – 1 – 2,c,hard
+time?",2 – 1 – 4 - 3,3 – 1 – 4 - 2,2 – 4 – 1 - 3,3 – 4 – 1 – 2,c
 Medival History,"With reference to Mughal India, what is/are the difference/differences between
 Jagirdar and Zamindar?
 1. Jagirdars were holders of land assignments in lieu of judicial and police duties,
@@ -60,54 +60,54 @@ whereas Zamindars were holders of revenue rights without obligation to perform
 any duty other than revenue collection.
 2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars
 were not hereditary.
-Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,medium
+Select the correct answer using the code given below.",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
 Medival History,"Building ‘Kalyaana Mandapas’ was a notable feature in the temple construction in the
-kingdom of",Chalukya,Chandela,Rashtrakuta,Vijayanagara,d,easy
+kingdom of",Chalukya,Chandela,Rashtrakuta,Vijayanagara,d
 Medival History,"Consider the following statements:
 1. In the revenue administration of Delhi Sultanate, the in-charge of revenue
 collection was known as ‘Amil’.
 2. The lqta system of Sultans of Delhi was an ancient indigenous institution.
 3. The office of ‘Mir Bakshi’ came into existence during the reign of Khalji Sultans of
 Delhi.
-Which of the statements given above is/are correct?",1 only,1 and 2 only,3 only,"1, 2 and 3",a,hard
+Which of the statements given above is/are correct?",1 only,1 and 2 only,3 only,"1, 2 and 3",a
 Medival History,"Consider the following statements:
 1. Saint Nimbarka was a contemporary of Akbar.
 2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d,medium
-Medival History,"With reference to Mian Tansen, which one of the following statements is not correct?",Tansen was the title given to him by Emperor Akbar.,Tansen composed Dhrupads on Hindu gods and goddesses.,Tansen composed songs on his patrons.,Tansen invented many Ragas.,a,easy
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,d
+Medival History,"With reference to Mian Tansen, which one of the following statements is not correct?",Tansen was the title given to him by Emperor Akbar.,Tansen composed Dhrupads on Hindu gods and goddesses.,Tansen composed songs on his patrons.,Tansen invented many Ragas.,a
 Medival History,"Who among the following Mughal Emperors shifted emphasis from illustrated
-manuscripts to album and individual portrait?",Humayun,Akbar,Jahangir,Shah Jahan,c,easy
-Medival History,"Which reference to the religious practices in India, the ""Sthanakvasi"" sect belongs to",Buddhism,Jainism,Vaishnavism,Shaivism,b,easy
+manuscripts to album and individual portrait?",Humayun,Akbar,Jahangir,Shah Jahan,c
+Medival History,"Which reference to the religious practices in India, the ""Sthanakvasi"" sect belongs to",Buddhism,Jainism,Vaishnavism,Shaivism,b
 Medival History,"""Regarding the taxation system of Krishna Deva, the ruler of Vijayanagar, consider the
 following statements:
 1. The tax rate on land was fixed depending on the quality of the land.
 2. Private owners of workshops paid an industries tax.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,medium
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
 Medival History,"With reference to the cultural history of medieval India, consider the following
 statements:
 1. Siddhas (Sittars) of the Tamil region were monotheistic and condemned idolatry.
 2. Lingayats of the Kannada region questioned the theory of rebirth and rejected the caste
 hierarchy.
-Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c,hard
-Medival History,Banjaras during the medieval period of Indian history were generally,agriculturists,warriors,weavers,traders,d,easy
-Medival History,"With reference to the economic history of medieval India, the term 'Araghatta' refers to",bonded labour,land grant made to military officers,waterwheel used in the irrigation of land,wasteland converted to cultivated land,c,easy
+Which of the statements given above is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,c
+Medival History,Banjaras during the medieval period of Indian history were generally,agriculturists,warriors,weavers,traders,d
+Medival History,"With reference to the economic history of medieval India, the term 'Araghatta' refers to",bonded labour,land grant made to military officers,waterwheel used in the irrigation of land,wasteland converted to cultivated land,c
 Medival History,"With reference to the cultural history of India, the memorizing of chronicles, dynastic
-histories and epic tales was the profession of who of the following?",Shramana,Parivraajaka,Agrahaarika,Maagadha,d,easy
+histories and epic tales was the profession of who of the following?",Shramana,Parivraajaka,Agrahaarika,Maagadha,d
 Medival History,"Consider the following:
 The arrival of Babur into India led to the
 1. introduction of gunpowder in the subcontinent
 2. introduction of the arch and dome in the region’s architecture
 3. establishment of Timurid dynasty in the region
-Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",b,hard
-Medival History,Kalamkari painting refers to,a hand-painted cotton textile in South India,a handmade drawing on bamboo handicrafts in North-East India,a block-painted woolen cloth in Western Himalayan region of India,a hand-painted decorative silk cloth in North-Western India,a,easy
+Select the correct answer using the code given below:",1 and 2 only,3 only,1 and 3 only,"1, 2 and 3",b
+Medival History,Kalamkari painting refers to,a hand-painted cotton textile in South India,a handmade drawing on bamboo handicrafts in North-East India,a block-painted woolen cloth in Western Himalayan region of India,a hand-painted decorative silk cloth in North-Western India,a
 Medival History,"Consider the following languages:
 1. Gujarati
 2. Kannada
 3. Telugu
 Which of the above has/have been declared as a 'Classical Language/Languages' by the
-Government?",1 and 2 only,3 only,2 and 3 only,"1, 2 and 3",c,hard
-Medival History,"In Medieval India, the designations 'Mahattara' and 'Pattakila' were used for",military officers,village headmen,specialists in Vedic rituals,chiefs of craft guilds,b,easy
+Government?",1 and 2 only,3 only,2 and 3 only,"1, 2 and 3",c
+Medival History,"In Medieval India, the designations 'Mahattara' and 'Pattakila' were used for",military officers,village headmen,specialists in Vedic rituals,chiefs of craft guilds,b
 Medival History,"Which one of the following pairs does not form part of the six systems of Indian
-Philosophy?",Mimamsa and Vedanta,Nyaya and Vaisheshika,Lokayata and Kapalika,Sankhya and Yoga,c,easy
+Philosophy?",Mimamsa and Vedanta,Nyaya and Vaisheshika,Lokayata and Kapalika,Sankhya and Yoga,c
 Medival History,Ibadat Khana at Fatehpur Sikri was,the mosque for the use of the Royal Family,Akbar's private prayer chamber,the hall in which Akbar held discussions with scholars of various religions,"the room in which the nobles belonging in different religions gathered to discuss
-religious affairs",c,easy
+religious affairs",c
