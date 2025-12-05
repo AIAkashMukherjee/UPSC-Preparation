@@ -11,6 +11,7 @@ QUESTIONS_BANK_PATH = Path("data/processed/questions_bank.json")
 CACHE_DIR = Path("cache/generated")
 
 load_dotenv()
+groq_api_key = os.getenv("GROQ_API_KEY")
 # --------- Helpers for JSON I/O ---------
 
 def load_question_bank() -> List[Dict]:
@@ -93,7 +94,7 @@ def generate_questions_with_groq(
     # Attempt to instantiate and call the Groq client; if not configured or any error occurs,
     # return an empty list so the caller can handle preloaded-only behavior or fallbacks.
     try:
-        groq_client = ChatGroq(model="gpt-4o", api_key=os.getenv("GROQ_API_KEY"))
+        groq_client = ChatGroq(model="gpt-4o", api_key=groq_api_key)
         response = groq_client.completions.create(messages=[{"role": "user", "content": prompt_text}])
         # Try to extract content from common response shapes
         content = ""
