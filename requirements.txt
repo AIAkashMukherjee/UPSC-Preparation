@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+pydantic
+python-dotenv
+pandas
+joblib  
+openai  
